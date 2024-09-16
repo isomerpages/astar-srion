@@ -9,7 +9,7 @@ sections:
   - hero:
       title: SIRION
       subtitle: Singapore Research Integrity Offices Network
-      background: /images/SIRION_logo_high_res.png
+      background: /images/SIRION___Copy.pdf
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -25,7 +25,7 @@ sections:
   - infobar:
       title: About Us
       subtitle: Subtitle
-      description: SIRION comprises of 10 member institutes and 3 observers
-      button: Button text
+      description: SIRION comprises of 10 member institutes and 3 observer institutes
+      button: Click to find out more
       url: /about-us/
 ---
