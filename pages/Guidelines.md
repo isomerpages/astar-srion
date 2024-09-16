@@ -32,7 +32,7 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://research.ntu.edu.sg/rieo/RI/Documents/Joint%20statement%20on%20research%20integrity%20relating%20to%20scholarly%20publications.pdf" rel="noopener noreferrer nofollow" target="_blank">Joint Statement on Research Integrity Relating to Scholarly Publications(2016)</a>
+<p><a href="https://research.ntu.edu.sg/rieo/RI/Documents/Joint%20statement%20on%20research%20integrity%20relating%20to%20scholarly%20publications.pdf" rel="noopener noreferrer nofollow" target="_blank">Joint Statement on Research Integrity Relating to Scholarly Publications (2016)</a>
 </p>
 </td>
 </tr>
