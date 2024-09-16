@@ -10,6 +10,9 @@ description: ""
 </div>
 <h2>Conference Recording</h2>
 <p>Recordings of the talks are available <a href="https://www.youtube.com/playlist?list=PLLDTAc73YrTZ_p5_MyDw5gb0W1xgjY2BT" rel="noopener nofollow" target="_blank">here</a>.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MWQZ9W2pEQI?si=0nzwSaKfDiMMl0AZ"></iframe>
+</div>
 <h2>Venue</h2>
 <p>Auditorium 2, University Town</p>
 <p>National University of Singapore</p>
