@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: SIRION
+description: Singapore Institutional Research Integrity Offices Network
+image: /images/SIRION_logo_high_res.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
