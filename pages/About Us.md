@@ -48,8 +48,6 @@ and initiatives.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>A*STAR</p>
-<p><em>Agency for Science, Technology and Research</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Prof Andy Hor (SIRION Chair)</p>
@@ -60,7 +58,7 @@ and initiatives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>A*STAR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Suresh Sachi</p>
@@ -71,7 +69,7 @@ and initiatives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>A*STAR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Prof Barry Halliwell</p>
@@ -85,8 +83,6 @@ of the Provost NUS;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NTU</p>
-<p><em>Nanyang Technological University</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assoc Prof Roderick Bates</p>
@@ -98,8 +94,6 @@ of the Provost NUS;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
-<p><em>National University of Singapore</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assoc Prof Low Chian Ming</p>
@@ -121,7 +115,7 @@ of the Provost NUS;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SIT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AP Desmond Chong</p>
@@ -132,7 +126,7 @@ of the Provost NUS;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SIT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Andy Chan</p>
