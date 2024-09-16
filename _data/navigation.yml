@@ -5,6 +5,6 @@ links:
   - title: About Us
     url: /example-page/
   - title: Resources
-    collection: example-folder
-  - title: Policies and Guidelines
-    collection: example-folder
+    collection: resources
+  - title: Resources
+    collection: resources
