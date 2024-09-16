@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - International Codes.md
       - Books.md
       - folder-page.md
       - example-subfolder/.keep
