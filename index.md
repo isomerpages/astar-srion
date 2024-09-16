@@ -9,7 +9,7 @@ sections:
   - hero:
       title: SIRION
       subtitle: Singapore Research Integrity Offices Network
-      background: /images/SIRION_logo_high_res.png
+      background: /images/SIRION_logo_for_homepage.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
