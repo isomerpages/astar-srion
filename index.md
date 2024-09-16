@@ -4,7 +4,7 @@ title: SIRION
 description: Singapore Institutional Research Integrity Offices Network
 image: /images/SIRION_logo_high_res.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: SIRION
