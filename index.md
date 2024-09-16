@@ -13,6 +13,9 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
+        - title: 2025 Research Integrity Conference
+          description: Key Highlight description
+          url: ""
         - title: Resources
           description: Important highlight B is equally important
           url: https://gmail.com
