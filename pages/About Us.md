@@ -4,6 +4,23 @@ permalink: /about-us/
 variant: tiptap
 description: ""
 ---
+<p>The formation of <strong>Singapore Institutional Research Integrity Offices Network (SIRION) </strong>was
+announced at the conclusion of the Joint Conference on Research Integrity
+on 22 Oct 2018, and the first meeting was held on 11 Apr 2019. <strong>SIRION </strong>serves
+as a platform for local research institutions to discuss and share best
+practices in order to promote the responsible conduct of research in Singapore.
+The Committee comprises of senior representatives from all local autonomous
+universities and healthcare clusters with observers from key funding agencies,
+thereby serving as a point of reference and advisory on matters of research
+integrity for participating institutions and other stakeholders locally.
+&nbsp;<strong>SIRION </strong>hopes to develop the local research integrity
+climate by creating a uniform and transparent approach in the handling
+of research integrity matters whilst keeping the research community up
+to date in relation to current and emerging global standards, practices
+and initiatives.</p>
+<p>
+<br>The establishment of SIRION in 2019 was highlighted in a Nature News article
+<a href="https://www.natureindex.com/news-blog/singapore-joins-rise-research-integrity-networks" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Institute_logos.png">
