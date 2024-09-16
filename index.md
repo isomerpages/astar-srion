@@ -19,9 +19,6 @@ sections:
         - title: Resources
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: About Us
       subtitle: Subtitle
