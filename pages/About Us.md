@@ -219,10 +219,36 @@ of the Provost NUS;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prof Andy Hor (SIRION Chair)</p>
+<p>Dr Teo Kien Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Chief Executive (Research)</p>
+<p>Senior Deputy Director, Academic Research Division, Higher Education Group</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NRF</p>
+<p><em>National Research Foundation</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Karen Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director, Grant Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NMRC</p>
+<p><em>National Medical Research Council</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head (Research Grants), Deputy Director</p>
 </td>
 </tr>
 </tbody>
