@@ -27,5 +27,5 @@ sections:
       subtitle: Subtitle
       description: SIRION comprises of 10 member institutes and 3 observers
       button: Button text
-      url: /faq/
+      url: /about-us/
 ---
