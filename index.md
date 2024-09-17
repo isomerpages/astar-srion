@@ -10,15 +10,10 @@ sections:
       title: SIRION
       subtitle: Singapore Research Integrity Offices Network
       background: /images/SIRION_logo_for_homepage.jpg
-      button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: 2025 Research Integrity Conference
-          description: Key Highlight description
-          url: ""
-        - title: Resources
-          description: Important highlight B is equally important
-          url: https://gmail.com
+      variant: side
+      size: sm
+      backgroundColor: gray
   - infobar:
       title: About Us
       subtitle: Subtitle
