@@ -14,8 +14,7 @@ sections:
       backgroundColor: gray
       subtitle: Singapore Research Integrity Offices Network
   - infobar:
-      title: About Us
-      subtitle: Subtitle
+      title: SIRION
       description: SIRION comprises of 10 member institutes and 3 observer institutes
       button: Click to find out more
       url: /about-us/
