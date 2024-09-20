@@ -226,8 +226,6 @@ of the Provost NUS;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MOE</p>
-<p><em>Ministry of Education</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Teo Kien Boon</p>
@@ -239,8 +237,6 @@ of the Provost NUS;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NRF</p>
-<p><em>National Research Foundation</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Karen Tan</p>
@@ -252,8 +248,6 @@ of the Provost NUS;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NMRC</p>
-<p><em>National Medical Research Council</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Terence Goh</p>
