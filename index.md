@@ -10,10 +10,11 @@ sections:
       background: /images/main_page_banner_2.jpg
       url: /contact-us/
       variant: floating
-      size: md
+      size: sm
       backgroundColor: gray
       subtitle: Singapore Research Integrity Offices Network
-      alignment: left
+      alignment: right
+      title: SIRION
   - infobar:
       title: SIRION
       description: SIRION comprises of 10 member institutes and 3 observer institutes
