@@ -7,12 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore Research Integrity Offices Network
       background: /images/main_page_banner.jpg
       url: /contact-us/
       variant: side
       size: sm
       backgroundColor: gray
+      subtitle: Singapore Research Integrity Offices Network
   - infobar:
       title: About Us
       subtitle: Subtitle
