@@ -41,7 +41,7 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/doc/docview/viewer/docN076CDEB8E9F4048434a9a64eac385a40f11946f01add798832f6fefe4cb0861dd5f101a1c69a" rel="noopener nofollow" target="_blank">Montreal Statement on Research Integrity in Cross-Boundary Research Collaborations (2013)</a>
+<p><a href="https://www.wcrif.org/guidance/montreal-statement" rel="noopener nofollow" target="_blank">Montreal Statement on Research Integrity in Cross-Boundary Research Collaborations (2013)</a>
 </p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ description: ""
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/doc/docview/viewer/docN076CDEB8E9F4fc5ead48762bede4fc06946c9658f9a3cfe1008a10e8996a580b4622bed03316" rel="noopener nofollow" target="_blank">The Hong Kong Principles for assessing researchers: Fostering research integrity (2020)</a>
+<p><a href="https://www.wcrif.org/guidance/hong-kong-principles" rel="noopener nofollow" target="_blank">The Hong Kong Principles for assessing researchers: Fostering research integrity (2020)</a>
 </p>
 </td>
 </tr>
