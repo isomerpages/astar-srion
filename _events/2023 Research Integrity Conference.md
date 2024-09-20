@@ -9,7 +9,104 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Banner of the 2023 Research Integrity Conference" src="/images/2023_RI_conf_banner.png">
 </div>
 <h2>Conference Recording</h2>
-<p>Recordings of the talks are available <a href="https://www.youtube.com/playlist?list=PLLDTAc73YrTZ_p5_MyDw5gb0W1xgjY2BT" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Title of talk</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Video</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Artificial Prediction Markets for Predicting Replication Outcomes by <strong>Dr Sarah Rajtmajer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fT0dz6DQqEw?si=0L2qG1z-CeVYpymE"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Editorial initiatives to improve research integrity: Experiences at MIS
+Quarterly by <strong>Prof Andrew Burton Jones</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/V2J1-UDeFxA?si=HbVG0FJmjFKuDPxE"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Designing outreach programmes to promote research integrity: Lessons from
+survey on NTU research community by <strong>Dr Fabian Lim</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YkGiVyr713k?si=Zt5tILXeHrRG5q9w"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>What makes people share data and how this enabled the global pandemic
+response and will lead the next healthcare revolution by <strong>Prof Sebastian Maurer-Stroh</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XkG9qLaRwn8?si=QS8cU3YuNjRrUxJI"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reproducibility in Artificial Intelligence by <strong>Prof Toby Walsh</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/djM30zWFb2U?si=W3tTJLxkbnS2FTml"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Research integrity and the computational humanities by <strong>Dr Miguel Escobar Varela</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a5veNNMDXUg?si=KPvOXVdU1EnAiFqn"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ethical Consideration in the Use of ChatGPT in Research by <strong>Dr Chau De-Ming</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B0XqkQT14j0?si=lsfXr_Lu07_PLVp2"></iframe>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MWQZ9W2pEQI?si=0nzwSaKfDiMMl0AZ"></iframe>
 </div>
