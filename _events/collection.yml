@@ -1,0 +1,6 @@
+collections:
+  events:
+    output: true
+    order:
+      - Past Events.md
+      - 2023 Research Integrity Conference.md
