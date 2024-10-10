@@ -117,7 +117,7 @@ of the Provost NUS;</p>
 <p>SIT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AP Desmond Chong</p>
+<p>Assoc Prof Desmond Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chair of Research Integrity Committee</p>
