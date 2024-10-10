@@ -20,6 +20,24 @@ and conferences on research integrity.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2023 Conference Poster" src="/images/2023_Conference_Poster.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Research Integrity Conference 2023</strong>
+</p>
+<p></p>
+<p>More details available in the <strong><em>Research Integrity Conference 2023</em></strong> tab
+on the left</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Poster for Open Science talk 15 Aug 2019" src="/images/Open_Science_poster_20190815.jpg">
 </div>
