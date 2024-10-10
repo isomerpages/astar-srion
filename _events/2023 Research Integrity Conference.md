@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Banner of the 2023 Research Integrity Conference" src="/images/2023_RI_conf_banner.png">
 </div>
-<h2>Conference Recording</h2>
+<h2>Conference Recordings</h2>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -18,10 +18,10 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Title of talk</p>
+<p>Talk</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Video</p>
+<p>Recording</p>
 </th>
 </tr>
 <tr>
@@ -281,7 +281,7 @@ Singapore (A*STAR)</p>
 <p>Dr Andy Liew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Research Integrity and Ethics Office (RIE), NTU</p>
+<p>Research Integrity and Ethics Office (RIEO), NTU</p>
 </td>
 </tr>
 <tr>

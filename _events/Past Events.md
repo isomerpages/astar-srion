@@ -19,25 +19,45 @@ and conferences on research integrity.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2023 Conference Poster" src="/images/2023_Conference_Poster.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Research Integrity Conference 2023</strong>
+</p>
+<p></p>
+<p>More details available in the <strong><em>Research Integrity Conference 2023</em></strong> tab
+on the left</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Poster for Open Science talk 15 Aug 2019" src="/images/Open_Science_poster_20190815.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Open Science Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Open Science Talk</strong>
+</p>
+<p></p>
 <p>This workshop was held on 15 August 2019.</p>
+<p></p>
 <p>NTU Visiting Professor Daniel Ansari (Western University Canada) shared
-on his Open Science experiences during the event. NTU Nanyang Assistant
-Professor Suzy Styles and Nanyang Assistant Professor Gianluca Esposito;from
-the School of Social Sciences shared on how they make use of the NTU repositories
-such as DR-NTU (Data) and DR-NTU (Open Access) to achieve their Open Science
-goals.</p>
-</th>
+on his Open Science Experiences during the event. NTU Nanyang Assistant
+Professor Suzy Styles and Nanyang Assistant Professor Gianluca Esposito;
+from the School of Social Sciences shared on how they make use of the NTU
+repositories such as DR-NTU (Data) and DR-NTU (Open Access) to achieve
+their Open Science goals.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

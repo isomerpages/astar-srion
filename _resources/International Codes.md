@@ -59,7 +59,7 @@ description: ""
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://ec.europa.eu/research/participants/data/ref/h2020/other/hi/h2020-ethics_code-of-conduct_en.pdf" rel="noopener noreferrer nofollow" target="_blank"><br>The European Code of Conduct for Research Integrity</a>
+<p><a href="https://allea.org/code-of-conduct/" rel="noopener noreferrer nofollow" target="_blank"><br>The European Code of Conduct for Research Integrity</a>
 </p>
 </td>
 </tr>
