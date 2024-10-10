@@ -197,7 +197,7 @@ of the Provost NUS;</p>
 <p>Dr Sankari Ramanathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director, NUHS Research Office</p>
+<p>Director, Research Office</p>
 </td>
 </tr>
 </tbody>
@@ -230,7 +230,7 @@ of the Provost NUS;</p>
 <p>Dr Teo Kien Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Deputy Director, Academic Research Division, Higher Education Group</p>
+<p>Senior Deputy Director, Higher Education Group</p>
 </td>
 </tr>
 <tr>
