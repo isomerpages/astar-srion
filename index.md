@@ -15,6 +15,13 @@ sections:
       subtitle: Singapore Research Integrity Offices Network
       alignment: right
       title: SIRION
+  - infopic:
+      title: 2025 Research Integrity Conference
+      id: infopic
+      button: click here to find out more
+      image: /images/Save_the_date_final_design.jpg
+      alt: 2025 Conference Save-the-Date
+      url: /2025-research-integrity-conference/
   - infobar:
       title: SIRION
       description: SIRION comprises of 10 member institutes and 3 observer institutes
