@@ -141,7 +141,7 @@ will open mid Feb 2025. Stay tuned to find out how to submit an abstract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Nicole Yeo</p>
+<p>Nicole Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Office, A*STAR</p>
@@ -149,7 +149,7 @@ will open mid Feb 2025. Stay tuned to find out how to submit an abstract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kang Li Xin</p>
+<p>Kang Li Xin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Office, A*STAR</p>
@@ -157,7 +157,7 @@ will open mid Feb 2025. Stay tuned to find out how to submit an abstract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mazlina Banu Jaikubali</p>
+<p>Mazlina Banu Jaikubali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Office, A*STAR</p>
@@ -165,7 +165,7 @@ will open mid Feb 2025. Stay tuned to find out how to submit an abstract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Gazal Jain</p>
+<p>Gazal Jain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academic and Research Compliance and Integrity Office, NUS</p>
@@ -173,7 +173,7 @@ will open mid Feb 2025. Stay tuned to find out how to submit an abstract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Janet To</p>
+<p>Janet To</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academic and Research Compliance and Integrity Office, NUS</p>
@@ -181,7 +181,7 @@ will open mid Feb 2025. Stay tuned to find out how to submit an abstract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Charlene Ng</p>
+<p>Charlene Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academic and Research Compliance and Integrity Office, NUS</p>
@@ -189,7 +189,7 @@ will open mid Feb 2025. Stay tuned to find out how to submit an abstract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Terence Lee</p>
+<p>Terence Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Integrity &amp; Ethics Office, NTU</p>
@@ -197,7 +197,7 @@ will open mid Feb 2025. Stay tuned to find out how to submit an abstract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ying Shi</p>
+<p>Tan Ying Shi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Integrity &amp; Ethics Office, NTU</p>
