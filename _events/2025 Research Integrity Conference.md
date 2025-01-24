@@ -15,7 +15,7 @@ description: 2025 SIRION Research Integrity Conference
 </p>
 <h2>Poster Session</h2>
 <p>The conference will include a poster presentation session. Abstract submissions
-will open mid Feb 2025. Stay tuned to find out how to submit an abstract.</p>
+will open mid Feb 2025.</p>
 <h2>Conference Organising Committee</h2>
 <h4></h4>
 <table style="minWidth: 50px">
