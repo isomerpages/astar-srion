@@ -5,6 +5,11 @@ variant: tiptap
 description: 2025 SIRION Research Integrity Conference
 ---
 <p></p><a class="isomer-image-wrapper" href="https://www.researchintegritysingapore.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="SIRION 2025 RI Conference - Save-the-Date Poster" src="/images/Save_the_date_final_design.jpg"></a>
+<h2>Venue</h2>
+<p>Matrix, Biopolis</p>
+<h2>Conference Program</h2>
+<p><strong>Thanks for your patience while we work to put together a terrific and captivating program!</strong>
+</p>
 <h2>Poster Session</h2>
 <p>The conference will include a poster presentation session. Abstract submissions
 will open mid Feb 2025. Stay tuned to find out how to submit an abstract.</p>
