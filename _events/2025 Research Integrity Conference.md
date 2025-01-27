@@ -42,7 +42,7 @@ will open mid Feb 2025.</p>
 <p>AP Low Chian Ming (Deputy Chair)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Academic and Research Compliance and Integrity Officer, NUS</p>
+<p>Chief Academic &amp; Research Compliance and Integrity Officer, NUS</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@ will open mid Feb 2025.</p>
 <p>Gazal Jain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Academic and Research Compliance and Integrity Office, NUS</p>
+<p>Academic &amp; Research Compliance and Integrity Office, NUS</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ will open mid Feb 2025.</p>
 <p>Janet To</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Academic and Research Compliance and Integrity Office, NUS</p>
+<p>Academic &amp; Research Compliance and Integrity Office, NUS</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ will open mid Feb 2025.</p>
 <p>Charlene Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Academic and Research Compliance and Integrity Office, NUS</p>
+<p>Academic &amp; Research Compliance and Integrity Office, NUS</p>
 </td>
 </tr>
 <tr>
