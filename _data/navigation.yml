@@ -1,0 +1,8 @@
+logo: /images/SIRION_logo_high_res.png
+links:
+  - title: About Us
+    url: /about-us/
+  - title: Resources
+    collection: resources
+  - title: Events
+    collection: events
