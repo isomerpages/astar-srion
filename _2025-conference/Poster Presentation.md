@@ -29,8 +29,8 @@ may be included in the final poster.</p>
 at least 3 weeks before the conference.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<h4><strong><u>Poster guidelines:</u></strong></h4>
+<p>&nbsp;<strong><u>Poster guidelines:</u></strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>To encourage networking and sharing of ideas, poster abstracts submitted
