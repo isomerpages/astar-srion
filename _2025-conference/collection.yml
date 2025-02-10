@@ -2,5 +2,6 @@ collections:
   2025-conference:
     output: true
     order:
+      - Program.md
       - 2025 Research Integrity Conference.md
       - Poster Presentation.md
