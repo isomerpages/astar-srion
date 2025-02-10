@@ -1,5 +1,5 @@
 collections:
-  2025-ri-conference:
+  2025-conference:
     output: true
     order:
       - 2025 Research Integrity Conference.md
