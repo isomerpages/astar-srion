@@ -8,7 +8,7 @@ description: 2025 SIRION Research Integrity Conference
 <h2>Venue</h2>
 <p><strong>Theatrette 1, Level 2 Matrix Building,</strong>
 </p>
-<p><strong>30 Biopolis Street, Singapore 13867</strong>
+<p><strong>30 Biopolis Street, Singapore 138671</strong>
 </p>
 <h2>Program</h2>
 <p>Available <a href="/program/" rel="noopener nofollow" target="_blank">here</a>.</p>
