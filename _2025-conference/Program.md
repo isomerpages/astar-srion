@@ -4,7 +4,7 @@ permalink: /program/
 variant: tiptap
 description: ""
 ---
-<p><em>Please note that the tentative program is subject to change.</em>
+<p><em>Please note that the program is subject to change.</em>
 </p>
 <p></p>
 <table style="minWidth: 50px">
@@ -13,6 +13,31 @@ description: ""
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Guests of Honour</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Prof Chng Wee Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS Vice President (Biomedical Sciences Research)</p>
+<p>Yong Loo Lin Professor in Medical Oncology, NUS</p>
+<p>Group Director, NUHS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Prof Ernst J Kuipers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTU Vice President (Research)</p>
+<p>Distinguished University Professor</p>
+<p>Professor, Lee Kong Chian School of Medicine, NTU</p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="2">
 <h4><strong>Keynote Speaker</strong></h4>
@@ -28,20 +53,33 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Guest of Honour</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Prof Chng Wee Joo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS Vice President (Biomedical Sciences Research)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <h4><strong>Session Speakers</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Prof Abhi Veerakumarasivam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chair of Young Scientists Network Academy of Sciences, Malaysia,</p>
+<p>Provost, Professor of Genetics, Sunway University, Malaysia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assoc Prof Jeannie Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director of Programmes, Infocomm Technology Cluster, Deputy Director,
+Centre for Immersification, Associate Professor, SIT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst Prof Lisa Winstanley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Professor, School of Art, Design and Media, NTU</p>
 </td>
 </tr>
 <tr>
@@ -51,32 +89,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Senior Director of AI Governance at AISG, NUS,</p>
 <p>Vice Provost (Educational Innovation), NUS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Associate Professor Jeannie Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director of Programmes, Infocomm Technology Cluster, Deputy Director,
-Centre for Immersification, Associate Professor, SIT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Professor Abhi Veerakumarasivam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chair of Young Scientists Network Academy of Sciences, Malaysia,</p>
-<p>Provost, Professor of Genetics, Sunway University, Malaysia</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Professor Lisa Winstanley</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Professor, School of Art, Design and Media, NTU</p>
 </td>
 </tr>
 <tr>
