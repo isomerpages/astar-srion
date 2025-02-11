@@ -70,8 +70,8 @@ description: ""
 <p>Assoc Prof Jeannie Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director of Programmes, Infocomm Technology Cluster, Deputy Director,
-Centre for Immersification, Associate Professor, SIT</p>
+<p>Director of Programmes, Infocomm Technology Cluster,</p>
+<p>Deputy Director, Centre for Immersification, Associate Professor, SIT</p>
 </td>
 </tr>
 <tr>
