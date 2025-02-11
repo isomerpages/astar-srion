@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Poster Submission Timeline" src="/images/Poster_Submission_Timeline.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poster_Submission_Timeline_2.jpg">
 </div>
 <h4><strong><u>Abstract Guidelines</u></strong></h4>
 <ol data-tight="true" class="tight">
