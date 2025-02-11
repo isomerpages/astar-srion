@@ -4,7 +4,11 @@ permalink: /poster-presentation/
 variant: tiptap
 description: ""
 ---
-<h4><strong><u>Abstract guidelines:</u></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Poster Submission Timeline" src="/images/Poster_Submission_Timeline.jpg">
+</div>
+<h4><strong><u>Abstract Guidelines</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Abstracts to be submitted in a MS Word Document as an attachment to
@@ -29,8 +33,7 @@ may be included in the final poster.</p>
 at least 3 weeks before the conference.</p>
 </li>
 </ol>
-<p>&nbsp;<strong><u>Poster guidelines:</u></strong>
-</p>
+<h4>&nbsp;<strong><u>Poster Guidelines</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>To encourage networking and sharing of ideas, poster abstracts submitted
