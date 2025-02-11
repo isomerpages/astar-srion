@@ -55,6 +55,9 @@ portrait orientation, to be displayed and presented at the conference.
 Poster printing costs will be borne by the individual.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<h4><strong>Poster presenters (minimum 1 per poster) will be expected to speak to the content of their posters at several designated sessions throughout the conference.</strong></h4>
+<h4><strong><u>Poster Judging</u></strong></h4>
+<p>Poster presenters (minimum 1 per poster) will be expected to speak to
+the content of their posters at several designated sessions throughout
+the conference.</p>
+<p>Awards will be presented to the top 3 posters.</p>
 <p></p>
