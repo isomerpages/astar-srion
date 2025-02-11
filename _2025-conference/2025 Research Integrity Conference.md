@@ -6,10 +6,13 @@ description: 2025 SIRION Research Integrity Conference
 ---
 <p></p><a class="isomer-image-wrapper" href="https://www.researchintegritysingapore.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="SIRION 2025 RI Conference - Save-the-Date Poster" src="/images/Save_the_date_final_design.jpg"></a>
 <h2>Venue</h2>
-<p><strong>Theatrette 1, Level 2 Matrix Building, </strong>
+<p><strong>Theatrette 1, Level 2 Matrix Building,</strong>
 </p>
 <p><strong>30 Biopolis Street, Singapore 13867</strong>
 </p>
+<h2>Program</h2>
+<p>Available here.</p>
+<h2>Poster Presentation</h2>
 <h2>Conference Organising Committee</h2>
 <table style="minWidth: 50px">
 <colgroup>
