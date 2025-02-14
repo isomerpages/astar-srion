@@ -21,7 +21,7 @@ description: ""
 <li>
 <p>Include the following sections in your abstract submission:</p>
 <p>a. Title</p>
-<p>b. Author affiliations</p>
+<p>b. Authors &amp; affiliations</p>
 <p>c. Abstract (maximum of 300 words)</p>
 </li>
 <li>
