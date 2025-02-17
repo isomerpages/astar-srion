@@ -4,7 +4,7 @@ title: SIRION
 description: Singapore Institutional Research Integrity Offices Network
 image: /images/SIRION_logo_high_res.png
 permalink: /
-notification: The next RI conference will be held in May 2025. Stay tuned to find out more!
+notification: ""
 sections:
   - hero:
       background: /images/main_page_banner_2.jpg
