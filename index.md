@@ -19,7 +19,7 @@ sections:
       title: 2025 Research Integrity Conference
       id: infopic
       button: click here to find out more
-      image: /images/Save_the_date_final_design.jpg
+      image: /images/EDM_website.png
       alt: 2025 Conference Flyer
       url: /2025-research-integrity-conference/
   - infobar:
