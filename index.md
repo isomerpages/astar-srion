@@ -19,8 +19,8 @@ sections:
       title: 2025 Research Integrity Conference
       id: infopic
       button: click here to find out more
-      image: /images/EDM_website.png
-      alt: 2025 Conference Flyer
+      image: /images/conference_flyer___banner.png
+      alt: 2025 Conference Flyer Banner
       url: /2025-research-integrity-conference/
   - infobar:
       title: SIRION
