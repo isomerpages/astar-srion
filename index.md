@@ -20,7 +20,7 @@ sections:
       id: infopic
       button: click here to find out more
       image: /images/Save_the_date_final_design.jpg
-      alt: 2025 Conference Save-the-Date
+      alt: 2025 Conference Flyer
       url: /2025-research-integrity-conference/
   - infobar:
       title: SIRION
