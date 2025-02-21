@@ -4,7 +4,9 @@ permalink: /2025-research-integrity-conference/
 variant: tiptap
 description: 2025 SIRION Research Integrity Conference
 ---
-<p></p><a class="isomer-image-wrapper" href="https://www.researchintegritysingapore.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="SIRION 2025 RI Conference - Save-the-Date Poster" src="/images/Save_the_date_final_design.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.eventbrite.sg/e/sirion-research-integrity-conference-2025-tickets-1234232114479?aff=oddtdtcreator"><img style="width: 100%" height="auto" width="100%" alt="Conference Flyer" src="/images/EDM_website.png"></a>
+<p><a href="https://www.eventbrite.sg/e/sirion-research-integrity-conference-2025-tickets-1234232114479?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">Click here to Register</a>
+</p>
 <h2>Venue</h2>
 <p><strong>Theatrette 1, Level 2 Matrix Building,</strong>
 </p>
