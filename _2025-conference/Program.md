@@ -11,7 +11,7 @@ description: ""
 <h3>Keynote Speakers</h3>
 <h4>Dr Magdalena SKIPPER</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Magdalena Skipper" src="/images/M_SkipperEiC_headshot__1_.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="Magdalena Skipper" src="/images/M_SkipperEiC_headshot__1_.jpg">
 </div>
 <p>Magdalena Skipper is Editor in Chief of <em>Nature</em> and Chief Editorial
 Advisor for the Nature Portfolio. A geneticist by training, she holds a
@@ -27,9 +27,8 @@ early-career researchers.</p>
 <p></p>
 <h3>Session Speakers</h3>
 <h4>Professor Abhi Veerakumarasivam</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="A Veerakumarasivam" src="/images/Abhi.png">
+<img style="width: 30%;" height="auto" width="100%" alt="A Veerakumarasivam" src="/images/Abhi.png">
 </div>
 <p>Professor Abhi Veerakumarasivam is a University of Cambridge-trained geneticist,
 educator and science communicator. Before taking on his current role as
@@ -64,7 +63,7 @@ social justice.</p>
 <h4>Associate Professor Jeannie LEE</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="J Lee" src="/images/jeannie_cropped.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="J Lee" src="/images/jeannie_cropped.jpg">
 </div>
 <p>Jeannie Lee is currently an Associate Professor at the Singapore Institute
 of Technology and the Deputy Director for the Center for Immersification.
@@ -81,7 +80,7 @@ Meta Quest Pro. She holds a Ph.D. in Computer and Electrical Engineering
 from the Georgia Institute of Technology.&nbsp;</p>
 <h4>Dr VOO Teck Chuan</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Voo TC" src="/images/Voo_Teck_Chuan_cropped.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="Voo TC" src="/images/Voo_Teck_Chuan_cropped.jpg">
 </div>
 <p>Trained in Philosophy, Bioethics, and Medical Jurisprudence, Dr <strong><u>Voo</u></strong><u> </u>Teck
 Chuan heads the SingHealth Office of Ethics in Healthcare and is Advisor
