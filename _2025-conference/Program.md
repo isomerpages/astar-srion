@@ -7,8 +7,9 @@ description: ""
 <p><em>Please note that the program is subject to change.</em>
 </p>
 <p></p>
-<h2>Keynote Speakers</h2>
-<h3>Dr Magdalena SKIPPER</h3>
+<h1>Speakers' Biographies</h1>
+<h3>Keynote Speakers</h3>
+<h4>Dr Magdalena SKIPPER</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Magdalena Skipper" src="/images/M_SkipperEiC_headshot__1_.jpg">
 </div>
@@ -22,11 +23,11 @@ research integrity, as well as collaboration and inclusion in research.
 As part of her desire to promote underrepresented groups in research, in
 2018 she co-launched the nature Research Inspiring Science Award for women
 early-career researchers.</p>
-<h3>Professor David Vaux</h3>
+<h4>Professor David Vaux</h4>
 <p></p>
-<h2>Session Speakers</h2>
+<h3>Session Speakers</h3>
 <p></p>
-<h3>Dr VOO Teck Chuan</h3>
+<h4>Dr VOO Teck Chuan</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Voo TC" src="/images/Voo_Teck_Chuan_cropped.jpg">
 </div>
@@ -43,7 +44,7 @@ National Medical Ethics Committee, the Ministry of Health Advisory Committee
 on Restricted Human Biomedical Research, and the National Advisory Committee
 for Laboratory Animal Research. He is an elected member of the Board of
 Directors for the International Association of Bioethics.</p>
-<h3>Associate Professor Jeannie LEE</h3>
+<h4>Associate Professor Jeannie LEE</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="J Lee" src="/images/jeannie_cropped.jpg">
