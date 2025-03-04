@@ -26,24 +26,41 @@ early-career researchers.</p>
 <h4>Professor David Vaux</h4>
 <p></p>
 <h3>Session Speakers</h3>
+<h4>Professor Abhi Veerakumarasivam</h4>
 <p></p>
-<h4>Dr VOO Teck Chuan</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Voo TC" src="/images/Voo_Teck_Chuan_cropped.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="A Veerakumarasivam" src="/images/Abhi.png">
 </div>
-<p>Trained in Philosophy, Bioethics, and Medical Jurisprudence, Dr <strong><u>Voo</u></strong><u> </u>Teck
-Chuan heads the SingHealth Office of Ethics in Healthcare and is Advisor
-to the SingHealth-Duke NUS Medical Humanities Institute. Since 2016, he
-has been a Steering Committee member of the Global Forum on Bioethics in
-Research. He is also a co-principal investigator for the Southeast Asia
-Bioethics Network, a Wellcome-funded initiative to build a bioethics community
-in the region. In addition to his roles on ethics advisory boards for clinical
-research, Teck Chuan contributes to national and institutional ethics committees
-in Singapore, including the Singapore Bioethics Advisory Committee, the
-National Medical Ethics Committee, the Ministry of Health Advisory Committee
-on Restricted Human Biomedical Research, and the National Advisory Committee
-for Laboratory Animal Research. He is an elected member of the Board of
-Directors for the International Association of Bioethics.</p>
+<p>Professor Abhi Veerakumarasivam is a University of Cambridge-trained geneticist,
+educator and science communicator. Before taking on his current role as
+the Provost of Sunway University, he was the Dean of the School of Medical
+and Life Sciences. His research in genetics involves the elucidation of
+components of the regulatory pathways that drive tumour recurrence and
+invasion as well as dissecting Asian genetic variations that confer differences
+in disease-risk and response to therapy.</p>
+<p>In recognition of his achievements, he has been awarded multiple awards
+including the National Cancer Council Malaysia Cancer Research Award, the
+Merdeka Award Grant and the Gen.T List. In 2016, he became the first Asian
+to be crowned as the Best Science Communicator at the International FameLab
+Finals at the Cheltenham Science Festival, UK.</p>
+<p>He was the inaugural Chair of the International Network for Government
+Science Advice Asia that supports the use of scientific evidence in informing
+policy at all levels of government. He is currently the Co-Chair of the
+ASEAN Young Scientists Network that represents top young scientists in
+the region who not only demonstrate academic excellence but also contribute
+towards nation-building through STEM promotion and advocacy. He sits on
+various national and regional science and educational policy committees
+and has co-authored various policy papers and reports. He co-initiated
+and led Malaysia’s first nationwide programme on Responsible Conduct of
+Research to create awareness and educate the Malaysian scientific community
+on the importance of research integrity.</p>
+<p>Abhi truly believes that the greatest challenges facing us in the 21st
+century can only be addressed through interdisciplinary approaches that
+promote humanity-centric research impact and communication, holistic education
+programmes that inculcate ethical values and an entrepreneurial mindset,
+and policies that support the translation of scientific discoveries and
+sustainable technologies to improve the health of the planet and promote
+social justice.</p>
 <h4>Associate Professor Jeannie LEE</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -62,6 +79,23 @@ the development of virtual and mixed reality simulations with industry
 partners using the latest headsets such as the Apple Vision Pro and the
 Meta Quest Pro. She holds a Ph.D. in Computer and Electrical Engineering
 from the Georgia Institute of Technology.&nbsp;</p>
+<h4>Dr VOO Teck Chuan</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Voo TC" src="/images/Voo_Teck_Chuan_cropped.jpg">
+</div>
+<p>Trained in Philosophy, Bioethics, and Medical Jurisprudence, Dr <strong><u>Voo</u></strong><u> </u>Teck
+Chuan heads the SingHealth Office of Ethics in Healthcare and is Advisor
+to the SingHealth-Duke NUS Medical Humanities Institute. Since 2016, he
+has been a Steering Committee member of the Global Forum on Bioethics in
+Research. He is also a co-principal investigator for the Southeast Asia
+Bioethics Network, a Wellcome-funded initiative to build a bioethics community
+in the region. In addition to his roles on ethics advisory boards for clinical
+research, Teck Chuan contributes to national and institutional ethics committees
+in Singapore, including the Singapore Bioethics Advisory Committee, the
+National Medical Ethics Committee, the Ministry of Health Advisory Committee
+on Restricted Human Biomedical Research, and the National Advisory Committee
+for Laboratory Animal Research. He is an elected member of the Board of
+Directors for the International Association of Bioethics.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
