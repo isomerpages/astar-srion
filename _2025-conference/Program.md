@@ -4,9 +4,8 @@ permalink: /program/
 variant: tiptap
 description: ""
 ---
-<p><em>Please note that the program is subject to change.</em>
+<p><em>The program is still being finalised, and will be provided closer to the conference date.</em>
 </p>
-<p></p>
 <h1>Speakers' Biographies</h1>
 <h3>Keynote Speakers</h3>
 <h4>Dr Magdalena SKIPPER</h4>
@@ -23,10 +22,10 @@ research integrity, as well as collaboration and inclusion in research.
 As part of her desire to promote underrepresented groups in research, in
 2018 she co-launched the nature Research Inspiring Science Award for women
 early-career researchers.</p>
-<h4>Professor David Vaux</h4>
+<h4>Professor David VAUX</h4>
 <p></p>
 <h3>Session Speakers</h3>
-<h4>Professor Abhi Veerakumarasivam</h4>
+<h4>Professor Abhi VEERAKUMARASIVAM</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="A Veerakumarasivam" src="/images/Abhi.png">
 </div>
@@ -61,7 +60,6 @@ and policies that support the translation of scientific discoveries and
 sustainable technologies to improve the health of the planet and promote
 social justice.</p>
 <h4>Associate Professor Jeannie LEE</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="J Lee" src="/images/jeannie_cropped.jpg">
 </div>
@@ -95,6 +93,21 @@ National Medical Ethics Committee, the Ministry of Health Advisory Committee
 on Restricted Human Biomedical Research, and the National Advisory Committee
 for Laboratory Animal Research. He is an elected member of the Board of
 Directors for the International Association of Bioethics.</p>
+<h4>Asst Prof Lisa WINSTANLEY</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L Winstanley" src="/images/Lisa_cropped.jpg">
+</div>
+<p>Lisa Winstanley is an Assistant Professor at Nanyang Technological University’s
+School of Art, Design &amp; Media. With over 25 years in commercial design
+and over a decade in education and research, she leads studies on ethical
+design practices and visual literacy and is the founder of the Design Ethics
+and Visual Integrity Research Lab. Her scholarly work explores visual plagiarism,
+interdisciplinary social responsibility, and ethical collaboration, with
+her research on visual plagiarism supported by an MOE Tier 2 AcRF. Her
+creative practice has earned 80+ international awards, including the Red
+Dot Design Award, with exhibitions in 30 countries at venues like Dongdaemun
+Design Plaza and Moscow’s State Tretyakov Gallery.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
