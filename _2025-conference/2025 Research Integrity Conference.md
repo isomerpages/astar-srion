@@ -12,8 +12,8 @@ description: 2025 SIRION Research Integrity Conference
 </p>
 <p><strong>30 Biopolis Street, Singapore 138671</strong>
 </p>
-<h2>Program</h2>
-<p>Available <a href="/program/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<h2>Speakers</h2>
+<p>Available <a href="/speakers/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h2>Poster Presentation</h2>
 <p>Instructions and details on poster abstract submission available <a href="/poster-presentation/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h2>Conference Organising Committee</h2>
