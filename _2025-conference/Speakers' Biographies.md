@@ -4,7 +4,7 @@ permalink: /speakers/
 variant: tiptap
 description: ""
 ---
-<p><em>The program is still being finalised, and will be provided closer to the conference date.</em>
+<p><em>The program is currently being finalized and will be available closer to the conference date.</em>
 </p>
 <h1>Speakers' Biographies</h1>
 <h3>Keynote Speakers</h3>
@@ -98,9 +98,8 @@ on Restricted Human Biomedical Research, and the National Advisory Committee
 for Laboratory Animal Research. He is an elected member of the Board of
 Directors for the International Association of Bioethics.</p>
 <h4>Asst Prof Lisa WINSTANLEY</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="L Winstanley" src="/images/Lisa_cropped.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="L Winstanley" src="/images/Lisa_cropped.jpg">
 </div>
 <p>Lisa Winstanley is an Assistant Professor at Nanyang Technological University’s
 School of Art, Design &amp; Media. With over 25 years in commercial design
