@@ -23,6 +23,7 @@ As part of her desire to promote underrepresented groups in research, in
 2018 she co-launched the nature Research Inspiring Science Award for women
 early-career researchers.</p>
 <h4>Professor David VAUX</h4>
+<p>Honorary Professor, WEHI, Melbourne</p>
 <p></p>
 <h3>Session Speakers</h3>
 <h4>Professor Abhi VEERAKUMARASIVAM</h4>
@@ -59,6 +60,9 @@ programmes that inculcate ethical values and an entrepreneurial mindset,
 and policies that support the translation of scientific discoveries and
 sustainable technologies to improve the health of the planet and promote
 social justice.</p>
+<h4>Professor Chien CHOU</h4>
+<p>Vice President / Chief Ethics Officer</p>
+<p>National Yang Ming Chiao Tung University</p>
 <h4>Associate Professor Jeannie LEE</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="J Lee" src="/images/jeannie_cropped.jpg">
