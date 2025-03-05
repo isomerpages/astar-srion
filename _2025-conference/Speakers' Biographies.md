@@ -100,7 +100,7 @@ Directors for the International Association of Bioethics.</p>
 <h4>Asst Prof Lisa WINSTANLEY</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="L Winstanley" src="/images/Lisa_cropped.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="L Winstanley" src="/images/Lisa_cropped.jpg">
 </div>
 <p>Lisa Winstanley is an Assistant Professor at Nanyang Technological University’s
 School of Art, Design &amp; Media. With over 25 years in commercial design
@@ -112,39 +112,16 @@ her research on visual plagiarism supported by an MOE Tier 2 AcRF. Her
 creative practice has earned 80+ international awards, including the Red
 Dot Design Award, with exhibitions in 30 countries at venues like Dongdaemun
 Design Plaza and Moscow’s State Tretyakov Gallery.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<h4><strong>Guests of Honour</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Prof Chng Wee Joo</p>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<h3>Guests of Honour</h3>
+<h4>Prof CHNG Wee Joo</h4>
 <p>NUS Vice President (Biomedical Sciences Research)</p>
 <p>Yong Loo Lin Professor in Medical Oncology, NUS</p>
 <p>Group Director, NUHS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Prof Ernst J Kuipers</p>
-</td>
-<td rowspan="1" colspan="1">
+<h4>Prof Ernst J KUIPERS</h4>
 <p>NTU Vice President (Research)</p>
 <p>Distinguished University Professor</p>
 <p>Professor, Lee Kong Chian School of Medicine, NTU</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
 <p></p>
