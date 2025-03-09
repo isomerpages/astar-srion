@@ -30,36 +30,41 @@ early-career researchers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="A Veerakumarasivam" src="/images/Abhi.png">
 </div>
-<p>Professor Abhi Veerakumarasivam is a University of Cambridge-trained geneticist,
-educator and science communicator. Before taking on his current role as
-the Provost of Sunway University, he was the Dean of the School of Medical
-and Life Sciences. His research in genetics involves the elucidation of
-components of the regulatory pathways that drive tumour recurrence and
-invasion as well as dissecting Asian genetic variations that confer differences
-in disease-risk and response to therapy.</p>
-<p>In recognition of his achievements, he has been awarded multiple awards
-including the National Cancer Council Malaysia Cancer Research Award, the
-Merdeka Award Grant and the Gen.T List. In 2016, he became the first Asian
-to be crowned as the Best Science Communicator at the International FameLab
-Finals at the Cheltenham Science Festival, UK.</p>
+<p>Professor Abhi Veerakumarasivam is a University of Cambridge- trained
+geneticist, educator and science communicator. Before taking on his current
+role as the Provost of Sunway University, he was the Dean of the School
+of Medical and Life Sciences.</p>
+<p>His research in genetics involves the elucidation of components of the
+regulatory pathways that drive tumour recurrence and invasion as well as
+dissecting Asian genetic variations that confer differences in disease-
+risk and response to therapy. In recognition of his achievements, he has
+been awarded multiple awards including the National Cancer Council Malaysia
+Cancer Research Award, the Study</p>
+<p>UK Alumni Award (Science and Sustainability), and the Merdeka Award Grant
+as well as listed in the Gen.T Leaders of Tomorrow List. He is the first
+Asian to be crowned as the Best Science Communicator at the International
+FameLab Finals at the Cheltenham Science Festival, UK.</p>
 <p>He was the inaugural Chair of the International Network for Government
 Science Advice Asia that supports the use of scientific evidence in informing
-policy at all levels of government. He is currently the Co-Chair of the
-ASEAN Young Scientists Network that represents top young scientists in
-the region who not only demonstrate academic excellence but also contribute
+policy at all levels of government. As Chair of the Young Scientists Network-Academy
+of Sciences Malaysia and Co-Chair of the ASEAN Young Scientists Network,
+he championed various national and regional initiatives to support mid-
+and early career researchers to drive academic excellence and contribute
 towards nation-building through STEM promotion and advocacy. He sits on
 various national and regional science and educational policy committees
-and has co-authored various policy papers and reports. He co-initiated
-and led Malaysia’s first nationwide programme on Responsible Conduct of
-Research to create awareness and educate the Malaysian scientific community
-on the importance of research integrity.</p>
+and has co-authored various policy papers and reports, including the Malaysian
+Higher Education Blueprint 2025-2035. He co-initiated and led Malaysia’s
+first nationwide programme on Responsible Conduct of Research to create
+awareness and educate the Malaysian scientific community on the importance
+of research integrity and currently is a member of the National Committee
+on Research Integrity.</p>
 <p>Abhi truly believes that the greatest challenges facing us in the 21st
 century can only be addressed through interdisciplinary approaches that
 promote humanity-centric research impact and communication, holistic education
 programmes that inculcate ethical values and an entrepreneurial mindset,
 and policies that support the translation of scientific discoveries and
-sustainable technologies to improve the health of the planet and promote
-social justice.</p>
+sustainability-driven technologies to improve the health of the planet
+and promote social justice.</p>
 <h4>Professor Chien CHOU</h4>
 <p>Vice President / Chief Ethics Officer</p>
 <p>National Yang Ming Chiao Tung University</p>
