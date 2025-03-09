@@ -68,7 +68,7 @@ and promote social justice.</p>
 <h4>Professor Chien CHOU</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="C Chou" src="/images/C_Chou__cropped.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="C Chou" src="/images/C_Chou__cropped.jpg">
 </div>
 <p>Dr. Chien Chou is the Senior Vice President, Chief Ethics Officer, and
 Chair Professor at Graduate Institute of Education / Center for Teacher
