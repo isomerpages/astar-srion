@@ -66,8 +66,24 @@ and policies that support the translation of scientific discoveries and
 sustainability-driven technologies to improve the health of the planet
 and promote social justice.</p>
 <h4>Professor Chien CHOU</h4>
-<p>Vice President / Chief Ethics Officer</p>
-<p>National Yang Ming Chiao Tung University</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="C Chou" src="/images/C_Chou__cropped.jpg">
+</div>
+<p>Dr. Chien Chou is the Senior Vice President, Chief Ethics Officer, and
+Chair Professor at Graduate Institute of Education / Center for Teacher
+Education, the Director of Research Center for Humanities and Social Sciences,
+and the Director of Office of Academic Ethics and Research Integrity at
+National Yang Ming Chiao Tung University (NYCU) in Taipei, Taiwan. She
+has a long-standing research focus on digital literacy, particularly scientific
+integrity and research ethics in Taiwan’s higher education. She has contributed
+to establishing the Center for Taiwan Academic Research Ethics Education
+(AREE, <a rel="noopener noreferrer nofollow" target="_blank">https://ethics.moe.edu.tw</a>),
+supported by the Taiwan Ministry of Education, for over ten years, developing
+more than 100 online courses in Traditional Chinese for students and researchers.
+Dr. Chou has received three Outstanding Research Awards from the Taiwan
+National Science and Technology Council, and was the recipient of the Taiwan
+Ministry of Education’s 67th Annual Academic Award in 2023.</p>
 <h4>Associate Professor Jeannie LEE</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="J Lee" src="/images/jeannie_cropped.jpg">
