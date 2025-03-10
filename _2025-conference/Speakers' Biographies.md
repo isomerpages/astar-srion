@@ -202,6 +202,57 @@ in hematology in the United Kingdom and Singapore respectively.</p>
 <p>Distinguished University Professor</p>
 <p>Professor, Lee Kong Chian School of Medicine, NTU</p>
 <p></p>
+<h3>Closing Remarks by SIRION Chair</h3>
+<h4>Professor Andy HOR</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="A Hor" src="/images/A_Hor.png">
+</div>
+<p>Professor Andy Hor is the Deputy Chief Executive (Research) of A*STAR.
+He oversees the scientific vision and research strategy of A*STAR, supports
+investigator-led research, develops a framework to foster quality, excellence
+and impact, as well as review policy and measures to safeguard research
+ethics, integrity, compliance and responsible conduct. He oversees the
+central research initiatives of the Agency, and is accordingly in charge
+of research talent development, strategic research initiatives, outputs,
+outcomes and research data, as well as local and international research
+partnership.</p>
+<p>Prior to this, Professor Hor was the Vice President and Pro-Vice-Chancellor
+(Research) and Chair Professor of Metallic Chemistry &amp; Materials in
+the University of Hong Kong (HKU) from 2015 to early 2020, and Professor
+of Chemistry at the National University of Singapore (NUS) from 1984 to
+2015. In NUS, he was Head of Chemistry, Vice Dean (Academic) of Science
+and Fellow of the NUS Teaching Academy. He is Adjunct Professor of NUS,
+NTU (Singapore) and Concurrent Professor of Fudan University (Shanghai,
+China).</p>
+<p>Professor Hor graduated from Imperial College (<a href="http://B.Sc" rel="noopener noreferrer nofollow" target="_blank">B.Sc</a>.(Hon)) and University of Oxford (D.Phil.),
+and did postdoctoral work in Yale University before he joined NUS. He was
+a Humboldt Fellow (Munich and Muenster), Commonwealth Fellow (Liverpool)
+and Anthony Mason Fellow (UNSW). He is the Fellow of the Singapore National
+Academy of Science and European Academy of Sciences.</p>
+<p>Among his accolades are the NSTB Young Scientist Award, ASEAN Achievement
+Award, the first SNIC Distinguished Chemistry Service Award, and numerous
+fellowship such as Humboldt, Commonwealth and ASAIHL. For his achievements
+and contributions, he was conferred <a href="http://D.Sc" rel="noopener noreferrer nofollow" target="_blank">D.Sc</a>. by the University of London, and numerous
+academy fellowships, including the European Academy of Sciences, Royal
+Society of Chemistry, Singapore National Academy of Science, Singapore
+National Institute of Chemistry and NUS Teaching Academy, among others.
+His services included being the President of the Federation of Asian Chemical
+Societies, President of the Singapore National Institute of Chemistry (SNIC),
+President of Jury of L’Oréal for Women in Science, Founding Chair of the
+Young Scientist Award, Chair of the Advisory Committee on Hazardous Substances
+and Toxic Wastes of the National Environment Agency, and Chair of numerous
+international conferences. He is on the advisory boards of a number of
+international journals and conferences, and has served on many grant and
+award review panels in Australia, Japan and Hong Kong as well as NRF and
+A*STAR, among others.</p>
+<p>In research, he specializes in organometallic materials and heterometallic
+catalysis and has published over 430 international papers with more than
+1,000 annual citations in recent years, and filed patents in areas like
+nanostructures and battery materials. He has delivered numerous plenary,
+keynote and invited lectures in major conferences and seminars, and trained
+over 100 doctorate and Master’s students apart from many more research
+students in NUS and schools in Singapore. He is Concurrent Professor of
+Fudan University.</p>
 <p></p>
 <p></p>
