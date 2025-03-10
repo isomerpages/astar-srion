@@ -160,9 +160,43 @@ Directors for the International Association of Bioethics.</p>
 <p></p>
 <h3>Guests of Honour</h3>
 <h4>Prof CHNG Wee Joo</h4>
-<p>NUS Vice President (Biomedical Sciences Research)</p>
-<p>Yong Loo Lin Professor in Medical Oncology, NUS</p>
-<p>Group Director, NUHS</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Chng WJ" src="/images/Chng_WJ.jpg">
+</div>
+<p>Professor Wee Joo Chng is Vice President (Biomedical Sciences Research)
+at the National University of Singapore. In this role, he spearheads the
+development of the University’s biomedical-related research, as well as
+strategic collaborations with academic institutes, hospitals and industrial
+partners. Presently the Yong Loo Lin Professor in Medical Oncology, Professor
+Chng is also a Senior Principal Investigator at the Cancer Science Institute
+of Singapore and concurrently serves as the Group Director of Research
+at the National University Health System and the inaugural Executive Director
+of the Singapore Translational Cancer Consortium.</p>
+<p>&nbsp;A hematologist by training, Professor Chng is an esteemed researcher
+in the fields of genomics, therapeutics and hematologic malignancies, with
+a wealth of experience spanning clinical practice, administration, and
+leadership. He has produced highly translational research, including using
+global genomic techniques to understand drug resistance and improve disease
+prognosis in hematological malignancies — that has helped to personalise
+treatment and improve patient outcomes. His impactful research has won
+him numerous national and global accolades, including the International
+Myeloma Foundation’s Brian G.M. Durie Outstanding Achievement Award in
+2020 — becoming the first in Asia to achieve this honour — and the National
+Medical Research Council’s National Outstanding Clinician Scientist Award
+in 2016.</p>
+<p>&nbsp;Professor Chng has been a Senior Consultant at the National University
+Cancer Institute, Singapore for over two decades, and was Vice Dean of
+Research at the Yong Loo Lin School of Medicine (2022–2023), Director of
+the National University Cancer Institute, Singapore (2014–2023), and Provost’s
+Chair (2018–2022). He is also the chair of the Asian Myeloma Network, a
+member of various leading national and international professional committees,
+including the International Myeloma Working Group and the American Association
+of Cancer Research, and a former president of the Singapore Society of
+Hematology.</p>
+<p>&nbsp;Professor Chng obtained his medical degree from the University of
+Leeds, and completed his internal medicine residency and fellowship training
+in hematology in the United Kingdom and Singapore respectively.</p>
 <h4>Prof Ernst J KUIPERS</h4>
 <p>NTU Vice President (Research)</p>
 <p>Distinguished University Professor</p>
