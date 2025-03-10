@@ -101,6 +101,44 @@ the development of virtual and mixed reality simulations with industry
 partners using the latest headsets such as the Apple Vision Pro and the
 Meta Quest Pro. She holds a Ph.D. in Computer and Electrical Engineering
 from the Georgia Institute of Technology.&nbsp;</p>
+<h4>Asst Prof Lisa WINSTANLEY</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="L Winstanley" src="/images/Lisa_cropped.jpg">
+</div>
+<p>Lisa Winstanley is an Assistant Professor at Nanyang Technological University’s
+School of Art, Design &amp; Media. With over 25 years in commercial design
+and over a decade in education and research, she leads studies on ethical
+design practices and visual literacy and is the founder of the Design Ethics
+and Visual Integrity Research Lab. Her scholarly work explores visual plagiarism,
+interdisciplinary social responsibility, and ethical collaboration, with
+her research on visual plagiarism supported by an MOE Tier 2 AcRF. Her
+creative practice has earned 80+ international awards, including the Red
+Dot Design Award, with exhibitions in 30 countries at venues like Dongdaemun
+Design Plaza and Moscow’s State Tretyakov Gallery.</p>
+<h4>Professor Simon Chesterman</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="S Chesterman" src="/images/Simon_cropped.jpg">
+</div>
+<p>Simon Chesterman is David Marshall Professor and Vice Provost (Educational
+Innovation) at the National University of Singapore, where he is also the
+founding Dean of NUS College. He serves as Senior Director of AI Governance
+at AI Singapore and Editor of the Asian Journal of International Law. Previously,
+he was Dean of NUS Law from 2012 to 2022 and Co‐President of the Law Schools
+Global League from 2021 to 2023.</p>
+<p>Educated in Melbourne, Beijing, Amsterdam, and Oxford, Professor Chesterman’s
+teaching experience includes periods at the Universities of Melbourne,
+Oxford, Southampton, Columbia, and Sciences Po. From 2006‐2011, he was
+Global Professor and Director of the New York University School of Law
+Singapore Programme. Prior to joining NYU, he was a Senior Associate at
+the International Peace Academy and Director of UN Relations at the International
+Crisis Group in New York.</p>
+<p>Professor Chesterman is the author or editor of more than twenty books,
+including We, the Robots? Regulating Artificial Intelligence and the Limits
+of the Law (CUP, 2021) and One Nation Under Surveillance (OUP, 2011). He
+also writes on legal education and higher education more generally, and
+is the author of five novels including the Raising Arcadia trilogy and
+Artifice.</p>
 <h4>Dr VOO Teck Chuan</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Voo TC" src="/images/Voo_Teck_Chuan_cropped.jpg">
@@ -118,20 +156,7 @@ National Medical Ethics Committee, the Ministry of Health Advisory Committee
 on Restricted Human Biomedical Research, and the National Advisory Committee
 for Laboratory Animal Research. He is an elected member of the Board of
 Directors for the International Association of Bioethics.</p>
-<h4>Asst Prof Lisa WINSTANLEY</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="L Winstanley" src="/images/Lisa_cropped.jpg">
-</div>
-<p>Lisa Winstanley is an Assistant Professor at Nanyang Technological University’s
-School of Art, Design &amp; Media. With over 25 years in commercial design
-and over a decade in education and research, she leads studies on ethical
-design practices and visual literacy and is the founder of the Design Ethics
-and Visual Integrity Research Lab. Her scholarly work explores visual plagiarism,
-interdisciplinary social responsibility, and ethical collaboration, with
-her research on visual plagiarism supported by an MOE Tier 2 AcRF. Her
-creative practice has earned 80+ international awards, including the Red
-Dot Design Award, with exhibitions in 30 countries at venues like Dongdaemun
-Design Plaza and Moscow’s State Tretyakov Gallery.</p>
+<h4></h4>
 <p></p>
 <h3>Guests of Honour</h3>
 <h4>Prof CHNG Wee Joo</h4>
