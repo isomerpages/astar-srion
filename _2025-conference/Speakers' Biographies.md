@@ -4,10 +4,9 @@ permalink: /speakers/
 variant: tiptap
 description: ""
 ---
-<p><em>The program is currently being finalized and will be available closer to the conference date.</em>
+<p><em>The program is currently being finalized and will be available soon.</em>
 </p>
 <h1>Speakers' Biographies</h1>
-<h3>Keynote Speakers</h3>
 <h4>Dr Magdalena SKIPPER</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Magdalena Skipper" src="/images/M_SkipperEiC_headshot__1_.jpg">
@@ -26,7 +25,7 @@ early-career researchers.</p>
 <p>Honorary Professor, Walter and Eliza Hall Institute of Medical Research,
 University of Melbourne</p>
 <p></p>
-<h3>Session Speakers</h3>
+<p></p>
 <h4>Professor Abhi VEERAKUMARASIVAM</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="A Veerakumarasivam" src="/images/Abhi.png">
