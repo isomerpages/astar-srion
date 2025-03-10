@@ -23,7 +23,8 @@ As part of her desire to promote underrepresented groups in research, in
 2018 she co-launched the nature Research Inspiring Science Award for women
 early-career researchers.</p>
 <h4>Professor David VAUX</h4>
-<p>Honorary Professor, WEHI, Melbourne</p>
+<p>Honorary Professor, Walter and Eliza Hall Institute of Medical Research,
+University of Melbourne</p>
 <p></p>
 <h3>Session Speakers</h3>
 <h4>Professor Abhi VEERAKUMARASIVAM</h4>
