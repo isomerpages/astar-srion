@@ -115,7 +115,7 @@ her research on visual plagiarism supported by an MOE Tier 2 AcRF. Her
 creative practice has earned 80+ international awards, including the Red
 Dot Design Award, with exhibitions in 30 countries at venues like Dongdaemun
 Design Plaza and Moscow’s State Tretyakov Gallery.</p>
-<h4>Professor Simon Chesterman</h4>
+<h4>Professor Simon CHESTERMAN</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="S Chesterman" src="/images/Simon_cropped.jpg">
