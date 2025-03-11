@@ -21,7 +21,7 @@ research integrity, as well as collaboration and inclusion in research.
 As part of her desire to promote underrepresented groups in research, in
 2018 she co-launched the nature Research Inspiring Science Award for women
 early-career researchers.</p>
-<h4>Professor David VAUX</h4>
+<h4>Prof David VAUX</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="D Vaux" src="/images/D_Vaux__cropped.jpg">
@@ -38,7 +38,7 @@ blog. In 2010 he gave the keynote address at the 2nd World Conference on
 Research Integrity, held in Singapore.</p>
 <p></p>
 <p></p>
-<h4>Professor Abhi VEERAKUMARASIVAM</h4>
+<h4>Prof Abhi VEERAKUMARASIVAM</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="A Veerakumarasivam" src="/images/Abhi.png">
 </div>
@@ -77,7 +77,7 @@ programmes that inculcate ethical values and an entrepreneurial mindset,
 and policies that support the translation of scientific discoveries and
 sustainability-driven technologies to improve the health of the planet
 and promote social justice.</p>
-<h4>Professor Chien CHOU</h4>
+<h4>Prof Chien CHOU</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="C Chou" src="/images/C_Chou__cropped.jpg">
@@ -96,7 +96,7 @@ more than 100 online courses in Traditional Chinese for students and researchers
 Dr. Chou has received three Outstanding Research Awards from the Taiwan
 National Science and Technology Council, and was the recipient of the Taiwan
 Ministry of Education’s 67th Annual Academic Award in 2023.</p>
-<h4>Associate Professor Jeannie LEE</h4>
+<h4>Assoc Prof Jeannie LEE</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="J Lee" src="/images/jeannie_cropped.jpg">
 </div>
@@ -127,7 +127,7 @@ her research on visual plagiarism supported by an MOE Tier 2 AcRF. Her
 creative practice has earned 80+ international awards, including the Red
 Dot Design Award, with exhibitions in 30 countries at venues like Dongdaemun
 Design Plaza and Moscow’s State Tretyakov Gallery.</p>
-<h4>Professor Simon CHESTERMAN</h4>
+<h4>Prof Simon CHESTERMAN</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="S Chesterman" src="/images/Simon_cropped.jpg">
@@ -259,8 +259,8 @@ European Gastroenterology Research Prize, the Innovation Award of the German
 Felix Burda Society, a Clinical Mentorship Award by the American Gastroenterology
 Association, and the Dutch Healthcare Executive of the Year Award.</p>
 <p></p>
-<h3>Closing Remarks by SIRION Chair</h3>
-<h4>Professor Andy HOR</h4>
+<h3>Address by SIRION Chair</h3>
+<h4>Prof Andy HOR</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="A Hor" src="/images/A_Hor__cropped.png">
