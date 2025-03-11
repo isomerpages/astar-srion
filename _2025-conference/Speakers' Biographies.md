@@ -263,7 +263,7 @@ Association, and the Dutch Healthcare Executive of the Year Award.</p>
 <h4>Professor Andy HOR</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="A Hor" src="/images/A_Hor.png">
+<img style="width: 30%;" height="auto" width="100%" alt="A Hor" src="/images/A_Hor__cropped.png">
 </div>
 <p>Professor Andy Hor is the Deputy Chief Executive (Research) of A*STAR.
 He oversees the scientific vision and research strategy of A*STAR, supports
