@@ -282,17 +282,17 @@ of Chemistry at the National University of Singapore (NUS) from 1984 to
 and Fellow of the NUS Teaching Academy. He is Adjunct Professor of NUS,
 NTU (Singapore) and Concurrent Professor of Fudan University (Shanghai,
 China).</p>
-<p>Professor Hor graduated from Imperial College (<a href="http://B.Sc" rel="noopener noreferrer nofollow" target="_blank">B.Sc</a>.(Hon)) and University of Oxford (D.Phil.),
-and did postdoctoral work in Yale University before he joined NUS. He was
-a Humboldt Fellow (Munich and Muenster), Commonwealth Fellow (Liverpool)
-and Anthony Mason Fellow (UNSW). He is the Fellow of the Singapore National
-Academy of Science and European Academy of Sciences.</p>
+<p>Professor Hor graduated from Imperial College (B.Sc.(Hon)) and University
+of Oxford (D.Phil.), and did postdoctoral work in Yale University before
+he joined NUS. He was a Humboldt Fellow (Munich and Muenster), Commonwealth
+Fellow (Liverpool) and Anthony Mason Fellow (UNSW). He is the Fellow of
+the Singapore National Academy of Science and European Academy of Sciences.</p>
 <p>Among his accolades are the NSTB Young Scientist Award, ASEAN Achievement
 Award, the first SNIC Distinguished Chemistry Service Award, and numerous
 fellowship such as Humboldt, Commonwealth and ASAIHL. For his achievements
-and contributions, he was conferred <a href="http://D.Sc" rel="noopener noreferrer nofollow" target="_blank">D.Sc</a>. by the University of London, and numerous
-academy fellowships, including the European Academy of Sciences, Royal
-Society of Chemistry, Singapore National Academy of Science, Singapore
+and contributions, he was conferred D.Sc. by the University of London,
+and numerous academy fellowships, including the European Academy of Sciences,
+Royal Society of Chemistry, Singapore National Academy of Science, Singapore
 National Institute of Chemistry and NUS Teaching Academy, among others.
 His services included being the President of the Federation of Asian Chemical
 Societies, President of the Singapore National Institute of Chemistry (SNIC),
