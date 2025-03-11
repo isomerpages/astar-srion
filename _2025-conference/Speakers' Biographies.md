@@ -21,12 +21,24 @@ research integrity, as well as collaboration and inclusion in research.
 As part of her desire to promote underrepresented groups in research, in
 2018 she co-launched the nature Research Inspiring Science Award for women
 early-career researchers.</p>
-<h4>Professor David VAUX</h4>
-<p>Honorary Professor, Walter and Eliza Hall Institute of Medical Research,
-University of Melbourne</p>
+<h4>Prof David VAUX</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="D Vaux" src="/images/D_Vaux__cropped.jpg">
+</div>
+<p>Professor David Vaux is an honorary fellow of The Walter and Eliza Hall
+Institute (WEHI). He graduated in medicine from the University of Melbourne,
+and completed a PhD at WEHI before a post-doctoral placement at Stanford
+University. His research was concerned with the molecular mechanisms of
+cell death, including the discovery of the role of Bcl-2 as an inhibitor
+of apoptosis. He also has an interest in research integrity and the seamier
+side of science. He is a member of the board of directors of The Center
+For Scientific Integrity, the parent organization of the Retraction Watch
+blog. In 2010 he gave the keynote address at the 2nd World Conference on
+Research Integrity, held in Singapore.</p>
 <p></p>
 <p></p>
-<h4>Professor Abhi VEERAKUMARASIVAM</h4>
+<h4>Prof Abhi VEERAKUMARASIVAM</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="A Veerakumarasivam" src="/images/Abhi.png">
 </div>
@@ -65,7 +77,7 @@ programmes that inculcate ethical values and an entrepreneurial mindset,
 and policies that support the translation of scientific discoveries and
 sustainability-driven technologies to improve the health of the planet
 and promote social justice.</p>
-<h4>Professor Chien CHOU</h4>
+<h4>Prof Chien CHOU</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="C Chou" src="/images/C_Chou__cropped.jpg">
@@ -84,7 +96,7 @@ more than 100 online courses in Traditional Chinese for students and researchers
 Dr. Chou has received three Outstanding Research Awards from the Taiwan
 National Science and Technology Council, and was the recipient of the Taiwan
 Ministry of Education’s 67th Annual Academic Award in 2023.</p>
-<h4>Associate Professor Jeannie LEE</h4>
+<h4>Assoc Prof Jeannie LEE</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="J Lee" src="/images/jeannie_cropped.jpg">
 </div>
@@ -115,7 +127,7 @@ her research on visual plagiarism supported by an MOE Tier 2 AcRF. Her
 creative practice has earned 80+ international awards, including the Red
 Dot Design Award, with exhibitions in 30 countries at venues like Dongdaemun
 Design Plaza and Moscow’s State Tretyakov Gallery.</p>
-<h4>Professor Simon CHESTERMAN</h4>
+<h4>Prof Simon CHESTERMAN</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="S Chesterman" src="/images/Simon_cropped.jpg">
@@ -160,14 +172,144 @@ Directors for the International Association of Bioethics.</p>
 <p></p>
 <h3>Guests of Honour</h3>
 <h4>Prof CHNG Wee Joo</h4>
-<p>NUS Vice President (Biomedical Sciences Research)</p>
-<p>Yong Loo Lin Professor in Medical Oncology, NUS</p>
-<p>Group Director, NUHS</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Chng WJ" src="/images/Chng_WJ.jpg">
+</div>
+<p>Professor Wee Joo Chng is Vice President (Biomedical Sciences Research)
+at the National University of Singapore. In this role, he spearheads the
+development of the University’s biomedical-related research, as well as
+strategic collaborations with academic institutes, hospitals and industrial
+partners. Presently the Yong Loo Lin Professor in Medical Oncology, Professor
+Chng is also a Senior Principal Investigator at the Cancer Science Institute
+of Singapore and concurrently serves as the Group Director of Research
+at the National University Health System and the inaugural Executive Director
+of the Singapore Translational Cancer Consortium.</p>
+<p>&nbsp;A hematologist by training, Professor Chng is an esteemed researcher
+in the fields of genomics, therapeutics and hematologic malignancies, with
+a wealth of experience spanning clinical practice, administration, and
+leadership. He has produced highly translational research, including using
+global genomic techniques to understand drug resistance and improve disease
+prognosis in hematological malignancies — that has helped to personalise
+treatment and improve patient outcomes. His impactful research has won
+him numerous national and global accolades, including the International
+Myeloma Foundation’s Brian G.M. Durie Outstanding Achievement Award in
+2020 — becoming the first in Asia to achieve this honour — and the National
+Medical Research Council’s National Outstanding Clinician Scientist Award
+in 2016.</p>
+<p>&nbsp;Professor Chng has been a Senior Consultant at the National University
+Cancer Institute, Singapore for over two decades, and was Vice Dean of
+Research at the Yong Loo Lin School of Medicine (2022–2023), Director of
+the National University Cancer Institute, Singapore (2014–2023), and Provost’s
+Chair (2018–2022). He is also the chair of the Asian Myeloma Network, a
+member of various leading national and international professional committees,
+including the International Myeloma Working Group and the American Association
+of Cancer Research, and a former president of the Singapore Society of
+Hematology.</p>
+<p>&nbsp;Professor Chng obtained his medical degree from the University of
+Leeds, and completed his internal medicine residency and fellowship training
+in hematology in the United Kingdom and Singapore respectively.</p>
 <h4>Prof Ernst J KUIPERS</h4>
-<p>NTU Vice President (Research)</p>
-<p>Distinguished University Professor</p>
-<p>Professor, Lee Kong Chian School of Medicine, NTU</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="E Kuipers" src="/images/E_Kuipers__cropped.jpg">
+</div>
+<p>Professor Ernst J Kuipers (MD, PhD) is Vice President (Research) and Distinguished
+University Professor at Nanyang Technological University (NTU). Prior to
+joining Nanyang Technological University, Ernst for two years served as
+Minister of Health, Welfare and Sport of The Netherlands. As Minister,
+he focused on a broad integrated care agenda to improve access, clinical
+outcomes, digitalization, and workforce satisfaction.
+<br>
+<br>Before becoming Minister, Ernst served Erasmus University Medical Center
+(MC) in Rotterdam, the Netherlands as CEO, and earlier as Professor of
+Medicine and Chair of the Departments of Gastroenterology and Hepatology,
+Internal Medicine, and Surgery. Erasmus MC is a university medical institute
+that combines hospitals, research facilities, and Schools of Medicine,
+Nursing, Nanobiology, and Clinical Technology. As CEO, he led the transformation
+to a new ‘smart’ hospital that, with other leading centers, forms the European
+University Hospital Alliance. Erasmus MC collaborates with the Technology
+University Delft and Erasmus University in a convergency strategy, joining
+expertise, facilities, and funding to address major societal challenges
+related to health, climate, and other matters. Ernst was also a member
+of the Governing Board of the National University Health System in Singapore,
+and a member of the Board of Curaçao Medical Center. He further acted as
+chair of the Dutch National Emergency Medicine Network, which played a
+major role during the Covid pandemic. Ernst chaired the board of the Netherlands
+Federation of University Medical Centres and was a member of the Dutch
+National Health Council.
+<br>
+<br>Ernst earned a medical degree from University of Groningen, completed
+training in Internal Medicine and Gastroenterology and wrote a thesis on <em>Helicobacter pylori</em> and
+gastric cancer. He subsequently worked at Vanderbilt University Medical
+Center in Nashville, Tennessee, in the USA, and then joined Erasmus MC.
+His clinical and research interests include early neoplastic gastrointestinal
+conditions, with a focus, among other things, on cancer screening. Under
+his supervision, many students completed their theses. He is a fellow of
+the American Gastroenterological Association, Honorary Member of the European
+Helicobacter &amp; Microbiota Study Group, and an Honorary Fellow of the
+Hong Kong Society of Gastroenterology. He served as the World Endoscopy
+Organization’s regional lead on colorectal cancer screening for Europe
+and the Middle East. He co-organized and contributed to various international
+guidelines on gastrointestinal neoplasia.
+<br>
+<br>Ernst is the recipient of many awards, including the Dutch Ministry of
+Health Pearl Award, the Influencer of the Year Award in Hospital Healthcare,
+the Ismar Boas Medal of the German Gastroenterology Society, the United
+European Gastroenterology Research Prize, the Innovation Award of the German
+Felix Burda Society, a Clinical Mentorship Award by the American Gastroenterology
+Association, and the Dutch Healthcare Executive of the Year Award.</p>
 <p></p>
+<h3>Address by SIRION Chair</h3>
+<h4>Prof Andy HOR</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="A Hor" src="/images/A_Hor__cropped.png">
+</div>
+<p>Professor Andy Hor is the Deputy Chief Executive (Research) of A*STAR.
+He oversees the scientific vision and research strategy of A*STAR, supports
+investigator-led research, develops a framework to foster quality, excellence
+and impact, as well as review policy and measures to safeguard research
+ethics, integrity, compliance and responsible conduct. He oversees the
+central research initiatives of the Agency, and is accordingly in charge
+of research talent development, strategic research initiatives, outputs,
+outcomes and research data, as well as local and international research
+partnership.</p>
+<p>Prior to this, Professor Hor was the Vice President and Pro-Vice-Chancellor
+(Research) and Chair Professor of Metallic Chemistry &amp; Materials in
+the University of Hong Kong (HKU) from 2015 to early 2020, and Professor
+of Chemistry at the National University of Singapore (NUS) from 1984 to
+2015. In NUS, he was Head of Chemistry, Vice Dean (Academic) of Science
+and Fellow of the NUS Teaching Academy. He is Adjunct Professor of NUS,
+NTU (Singapore) and Concurrent Professor of Fudan University (Shanghai,
+China).</p>
+<p>Professor Hor graduated from Imperial College (B.Sc.(Hon)) and University
+of Oxford (D.Phil.), and did postdoctoral work in Yale University before
+he joined NUS. He was a Humboldt Fellow (Munich and Muenster), Commonwealth
+Fellow (Liverpool) and Anthony Mason Fellow (UNSW). He is the Fellow of
+the Singapore National Academy of Science and European Academy of Sciences.</p>
+<p>Among his accolades are the NSTB Young Scientist Award, ASEAN Achievement
+Award, the first SNIC Distinguished Chemistry Service Award, and numerous
+fellowship such as Humboldt, Commonwealth and ASAIHL. For his achievements
+and contributions, he was conferred D.Sc. by the University of London,
+and numerous academy fellowships, including the European Academy of Sciences,
+Royal Society of Chemistry, Singapore National Academy of Science, Singapore
+National Institute of Chemistry and NUS Teaching Academy, among others.
+His services included being the President of the Federation of Asian Chemical
+Societies, President of the Singapore National Institute of Chemistry (SNIC),
+President of Jury of L’Oréal for Women in Science, Founding Chair of the
+Young Scientist Award, Chair of the Advisory Committee on Hazardous Substances
+and Toxic Wastes of the National Environment Agency, and Chair of numerous
+international conferences. He is on the advisory boards of a number of
+international journals and conferences, and has served on many grant and
+award review panels in Australia, Japan and Hong Kong as well as NRF and
+A*STAR, among others.</p>
+<p>In research, he specializes in organometallic materials and heterometallic
+catalysis and has published over 430 international papers with more than
+1,000 annual citations in recent years, and filed patents in areas like
+nanostructures and battery materials. He has delivered numerous plenary,
+keynote and invited lectures in major conferences and seminars, and trained
+over 100 doctorate and Master’s students apart from many more research
+students in NUS and schools in Singapore. He is Concurrent Professor of
+Fudan University.</p>
 <p></p>
 <p></p>
