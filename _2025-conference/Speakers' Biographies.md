@@ -22,8 +22,20 @@ As part of her desire to promote underrepresented groups in research, in
 2018 she co-launched the nature Research Inspiring Science Award for women
 early-career researchers.</p>
 <h4>Professor David VAUX</h4>
-<p>Honorary Professor, Walter and Eliza Hall Institute of Medical Research,
-University of Melbourne</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="D Vaux" src="/images/D_Vaux__cropped.jpg">
+</div>
+<p>Professor David Vaux is an honorary fellow of The Walter and Eliza Hall
+Institute (WEHI). He graduated in medicine from the University of Melbourne,
+and completed a PhD at WEHI before a post-doctoral placement at Stanford
+University. His research was concerned with the molecular mechanisms of
+cell death, including the discovery of the role of Bcl-2 as an inhibitor
+of apoptosis. He also has an interest in research integrity and the seamier
+side of science. He is a member of the board of directors of The Center
+For Scientific Integrity, the parent organization of the Retraction Watch
+blog. In 2010 he gave the keynote address at the 2nd World Conference on
+Research Integrity, held in Singapore.</p>
 <p></p>
 <p></p>
 <h4>Professor Abhi VEERAKUMARASIVAM</h4>
@@ -198,9 +210,54 @@ Hematology.</p>
 Leeds, and completed his internal medicine residency and fellowship training
 in hematology in the United Kingdom and Singapore respectively.</p>
 <h4>Prof Ernst J KUIPERS</h4>
-<p>NTU Vice President (Research)</p>
-<p>Distinguished University Professor</p>
-<p>Professor, Lee Kong Chian School of Medicine, NTU</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="E Kuipers" src="/images/E_Kuipers__cropped.jpg">
+</div>
+<p>Professor Ernst J Kuipers (MD, PhD) is Vice President (Research) and Distinguished
+University Professor at Nanyang Technological University (NTU). Prior to
+joining Nanyang Technological University, Ernst for two years served as
+Minister of Health, Welfare and Sport of The Netherlands. As Minister,
+he focused on a broad integrated care agenda to improve access, clinical
+outcomes, digitalization, and workforce satisfaction.
+<br>
+<br>Before becoming Minister, Ernst served Erasmus University Medical Center
+(MC) in Rotterdam, the Netherlands as CEO, and earlier as Professor of
+Medicine and Chair of the Departments of Gastroenterology and Hepatology,
+Internal Medicine, and Surgery. Erasmus MC is a university medical institute
+that combines hospitals, research facilities, and Schools of Medicine,
+Nursing, Nanobiology, and Clinical Technology. As CEO, he led the transformation
+to a new ‘smart’ hospital that, with other leading centers, forms the European
+University Hospital Alliance. Erasmus MC collaborates with the Technology
+University Delft and Erasmus University in a convergency strategy, joining
+expertise, facilities, and funding to address major societal challenges
+related to health, climate, and other matters. Ernst was also a member
+of the Governing Board of the National University Health System in Singapore,
+and a member of the Board of Curaçao Medical Center. He further acted as
+chair of the Dutch National Emergency Medicine Network, which played a
+major role during the Covid pandemic. Ernst chaired the board of the Netherlands
+Federation of University Medical Centres and was a member of the Dutch
+National Health Council.
+<br>
+<br>Ernst earned a medical degree from University of Groningen, completed
+training in Internal Medicine and Gastroenterology and wrote a thesis on <em>Helicobacter pylori</em> and
+gastric cancer. He subsequently worked at Vanderbilt University Medical
+Center in Nashville, Tennessee, in the USA, and then joined Erasmus MC.
+His clinical and research interests include early neoplastic gastrointestinal
+conditions, with a focus, among other things, on cancer screening. Under
+his supervision, many students completed their theses. He is a fellow of
+the American Gastroenterological Association, Honorary Member of the European
+Helicobacter &amp; Microbiota Study Group, and an Honorary Fellow of the
+Hong Kong Society of Gastroenterology. He served as the World Endoscopy
+Organization’s regional lead on colorectal cancer screening for Europe
+and the Middle East. He co-organized and contributed to various international
+guidelines on gastrointestinal neoplasia.
+<br>
+<br>Ernst is the recipient of many awards, including the Dutch Ministry of
+Health Pearl Award, the Influencer of the Year Award in Hospital Healthcare,
+the Ismar Boas Medal of the German Gastroenterology Society, the United
+European Gastroenterology Research Prize, the Innovation Award of the German
+Felix Burda Society, a Clinical Mentorship Award by the American Gastroenterology
+Association, and the Dutch Healthcare Executive of the Year Award.</p>
 <p></p>
 <h3>Closing Remarks by SIRION Chair</h3>
 <h4>Professor Andy HOR</h4>
