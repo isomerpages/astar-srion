@@ -245,7 +245,4 @@ Centre for Immersification, Associate Professor, SIT</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Program 17Mar2025" src="/images/Program.png">
-</div>
 <p></p>
