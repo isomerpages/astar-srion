@@ -4,7 +4,7 @@ permalink: /program/
 variant: tiptap
 description: ""
 ---
-<p><em>Program is tentative, and subject to change.</em>
+<p><em>Program is tentative, and will be confirmed soon.</em>
 </p>
 <h2>Conference Program</h2>
 <table style="minWidth: 50px">
