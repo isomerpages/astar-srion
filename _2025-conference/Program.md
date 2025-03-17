@@ -110,7 +110,7 @@ description: ""
 <p>11.25am – 11.55am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Morning tea + poster viewing</p>
+<p>Morning tea</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ description: ""
 <p>1.05pm – 2.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lunch + poster judging</p>
+<p>Lunch</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@ Centre for Immersification, Associate Professor, SIT</p>
 <p>3.25pm – 3.55pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Afternoon tea &amp; poster judging</p>
+<p>Afternoon tea</p>
 </td>
 </tr>
 <tr>
@@ -216,8 +216,8 @@ Centre for Immersification, Associate Professor, SIT</p>
 <td rowspan="1" colspan="1">
 <p><strong>Prof Chien Chou</strong>
 </p>
-<p>Senior Vice President &amp; Chair Professor</p>
-<p>National Yang Ming Chiao Tung University</p>
+<p>Senior Vice President &amp; Chair Professor, National Yang Ming Chiao
+Tung University</p>
 <p><u>Artificial Intelligence (AI) in Academic Peer Review: Enhancing Efficiency or Threatening Integrity?</u>
 </p>
 </td>
