@@ -128,7 +128,7 @@ University of Melbourne</p>
 <p><strong>Dr Voo Teck Chuan</strong>
 </p>
 <p>Head, Office of Ethics in Healthcare, SingHealth</p>
-<p><u>Emerging Technologies, Enduring Values: Shaping a Research Integrity Ecosystem for Today's Bioethics Landscape</u>
+<p><u>Research Integrity and Emerging Technologies: Clarity, Sustainability, and Accountability</u>
 </p>
 </td>
 </tr>
