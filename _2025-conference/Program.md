@@ -50,7 +50,7 @@ description: ""
 </p>
 <p><strong>Prof Chng Wee Joo</strong>
 </p>
-<p>NUS Vice President (Biomedical Science Research)</p>
+<p>Vice President (Biomedical Science Research), NUS</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +60,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Prof Ernst J Kuipers</strong>
 </p>
-<p>NTU Vice President (Research)</p>
+<p>Vice President (Research), NTU</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +100,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Prof Mai Har Sham</strong>
 </p>
-<p>VP Research, The Chinese University of Hong Kong</p>
+<p>Pro-Vice-Chancellor / Vice-President (Research), The Chinese University
+of Hong Kong</p>
 <p><em><u>Talk title to be confirmed</u></em>
 </p>
 </td>
