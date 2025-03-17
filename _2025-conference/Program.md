@@ -65,7 +65,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Session 1: Research with integrity- beyond the ethics checklist</strong>
+<p><strong>Session 1: Research with integrity - beyond the ethics checklist</strong>
 </p>
 </td>
 </tr>
@@ -116,7 +116,7 @@ University of Melbourne</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Session 2:&nbsp; Research integrity in focus - Overcoming challenges in specialised fields</strong>
+<p><strong>Session 2:&nbsp; Research integrity in focus - overcoming challenges in specialised fields</strong>
 </p>
 </td>
 </tr>
