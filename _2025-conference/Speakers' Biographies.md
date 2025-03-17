@@ -4,8 +4,6 @@ permalink: /speakers/
 variant: tiptap
 description: ""
 ---
-<p><em>The program is currently being finalized and will be available soon.</em>
-</p>
 <h1>Speakers' Biographies</h1>
 <h4>Dr Magdalena SKIPPER</h4>
 <div class="isomer-image-wrapper">
@@ -127,6 +125,53 @@ her research on visual plagiarism supported by an MOE Tier 2 AcRF. Her
 creative practice has earned 80+ international awards, including the Red
 Dot Design Award, with exhibitions in 30 countries at venues like Dongdaemun
 Design Plaza and Moscow’s State Tretyakov Gallery.</p>
+<h4>Prof Mai Har SHAM</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="MH Sham" src="/images/MH_Sham_cropped.jpg">
+</div>
+<p>Professor Mai Har Sham has been Pro-Vice-Chancellor and Vice-President
+(Research) and Choh-Ming Li Professor of Biomedical Sciences at The Chinese
+University of Hong Kong (CUHK) since 2020. Professor Sham obtained her
+BSc and MPhil in Biology at CUHK. She was awarded a Croucher Foundation
+Scholarship and pursued her PhD in Biochemistry at the University of Cambridge,
+U.K. She received her postdoctoral training in Developmental Genetics at
+the National Institute for Medical Research in London before joining The
+University of Hong Kong (HKU), where she later became Assistant Dean (Research),
+Head of the Department of Biochemistry, Director of the Centre for Reproduction
+Development and Growth in the Li Ka Shing Faculty of Medicine, and the
+Associate Vice-President (Research) of HKU. Professor Sham promoted not
+only excellent research, but also dedicated to medical and science curriculum
+development. She led the design and establishment of the first Bachelor
+of Biomedical Sciences curriculum in Hong Kong.</p>
+<p>As PVC (Research) in CUHK, Professor Sham oversees the strategic development
+of research and innovation, entrepreneurship, knowledge transfer and research
+impact in the University. She provides leadership to research institutes
+and centres, fostering interdisciplinary research and collaboration with
+academic and industrial partners in strategic research areas. She is in
+charge of research support services for technology transfer, intellectual
+property management, start-ups and commercialization platforms to translate
+research and knowledge into societal impact. Professor Sham is responsible
+for the administration of research fundings, including university-wide
+funding schemes to support research equipment and facilities, interdisciplinary
+group research projects, research talents and partnership with international
+institutions. She also oversees matters relating to research policies,
+research data management, ensuring best practices in compliance, research
+ethics and integrity in the University.</p>
+<p>Professor Sham is a Governing Board member of the World Conferences on
+Research Integrity Foundation (WCRIF) and was the Co-Chair for the 6<sup>th</sup>&nbsp;
+World Conference on Research Integrity in 2019. Working together with the
+international consortium, she promotes responsible conduct of research
+and good science in universities and research institutions.</p>
+<p>&nbsp;</p>
+<p>As a developmental geneticist, Professor Sham leads a research team focusing
+on the molecular mechanisms of mammalian development and human congenital
+disorders. Her research covers areas of gene regulation and molecular signaling,
+craniofacial and hearing disorders, genetic bases and mutant mouse models
+of rare human diseases, stem cells, and tissue regeneration. She is currently
+the President of the Hong Kong Society for Developmental Biology. She serves
+as an Associate Editor for <em>Gene Expression Patterns</em> and an Editor
+for <em>Cell and Bioscience</em>.</p>
 <h4>Prof Simon CHESTERMAN</h4>
 <p></p>
 <div class="isomer-image-wrapper">
