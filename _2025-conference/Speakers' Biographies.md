@@ -4,8 +4,6 @@ permalink: /speakers/
 variant: tiptap
 description: ""
 ---
-<p><em>The program is currently being finalized and will be available soon.</em>
-</p>
 <h1>Speakers' Biographies</h1>
 <h4>Dr Magdalena SKIPPER</h4>
 <div class="isomer-image-wrapper">
