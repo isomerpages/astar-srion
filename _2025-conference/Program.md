@@ -116,7 +116,7 @@ University of Melbourne</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Session 2:&nbsp; Research integrity in focus: navigating challenges in specialised fields</strong>
+<p><strong>Session 2:&nbsp; Research integrity in focus - Overcoming challenges in specialised fields</strong>
 </p>
 </td>
 </tr>
