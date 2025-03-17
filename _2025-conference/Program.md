@@ -36,7 +36,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><u>Welcome by Conference Chair</u>
 </p>
-<p>Prof Ng Huck Hui</p>
+<p><strong>Prof Ng Huck Hui</strong>
+</p>
 <p>SIRION Conference Organising Committee Chair</p>
 </td>
 </tr>
@@ -73,13 +74,11 @@ description: ""
 <p>9.25am – 10.15am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Keynote Speaker</u>
-</p>
 <p><strong>Prof David Vaux</strong>
 </p>
 <p>Honorary Professor, Walter and Eliza Hall Institute of Medical Research,
 University of Melbourne</p>
-<p><strong>&nbsp;</strong><u>Research integrity - Whose responsibility?</u>
+<p><u>Research integrity - Whose responsibility?</u>
 </p>
 </td>
 </tr>
@@ -91,7 +90,7 @@ University of Melbourne</p>
 <p><strong>Prof Abhi Veerakumarasivam</strong>
 </p>
 <p>Provost, Sunway University, Malaysia</p>
-<p><strong>&nbsp;</strong><u>Bridging the Trust Deficit: Building a Culture of Research Integrity in Southeast Asia</u>
+<p><u>Bridging the Trust Deficit: Building a Culture of Research Integrity in Southeast Asia</u>
 </p>
 </td>
 </tr>
@@ -129,7 +128,7 @@ University of Melbourne</p>
 <p><strong>Dr Voo Teck Chuan</strong>
 </p>
 <p>Head, Office of Ethics in Healthcare, SingHealth</p>
-<p>&nbsp;<u>Emerging Technologies, Enduring Values: Shaping a Research Integrity Ecosystem for Today's Bioethics Landscape</u>
+<p><u>Emerging Technologies, Enduring Values: Shaping a Research Integrity Ecosystem for Today's Bioethics Landscape</u>
 </p>
 </td>
 </tr>
@@ -141,7 +140,7 @@ University of Melbourne</p>
 <p><strong>Asst Prof Lisa Winstanley</strong>
 </p>
 <p>Assistant Professor, School of Art, Design and Media, NTU</p>
-<p>&nbsp;<u>Visual Integrity in the Age of Gen AI: Ethical Challenges and Opportunities in Art and Design</u>
+<p><u>Visual Integrity in the Age of Gen AI: Ethical Challenges and Opportunities in Art and Design</u>
 </p>
 </td>
 </tr>
@@ -168,7 +167,6 @@ University of Melbourne</p>
 </p>
 <p>Senior Director of AI Governance at AISG, NUS, Vice Provost (Educational
 Innovation), NUS</p>
-<p>&nbsp;</p>
 <p><u>The AI Made Me Do It: Research Integrity in an Age of Hallucinations and Perverse Incentives</u>
 </p>
 </td>
@@ -182,7 +180,7 @@ Innovation), NUS</p>
 </p>
 <p>Director of Programmes, Infocomm Technology Cluster, Deputy Director,
 Centre for Immersification, Associate Professor, SIT</p>
-<p>&nbsp;<u>Ethical challenges of the Metaverse</u>
+<p><u>Ethical challenges of the Metaverse</u>
 </p>
 </td>
 </tr>
@@ -192,7 +190,6 @@ Centre for Immersification, Associate Professor, SIT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Afternoon tea &amp; poster judging</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -206,12 +203,10 @@ Centre for Immersification, Associate Professor, SIT</p>
 <p>3.55pm - 4.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Keynote Speaker</u>
-</p>
 <p><strong>Dr Magdalena Skipper</strong>
 </p>
 <p>Springer Nature Editor-in-Chief</p>
-<p><strong>&nbsp;</strong><em><u>Talk title to be confirmed</u></em>
+<p><em><u>Talk title to be confirmed</u></em>
 </p>
 </td>
 </tr>
@@ -224,7 +219,7 @@ Centre for Immersification, Associate Professor, SIT</p>
 </p>
 <p>Senior Vice President &amp; Chair Professor</p>
 <p>National Yang Ming Chiao Tung University</p>
-<p>&nbsp;<u>Artificial Intelligence (AI) in Academic Peer Review: Enhancing Efficiency or Threatening Integrity?</u>
+<p><u>Artificial Intelligence (AI) in Academic Peer Review: Enhancing Efficiency or Threatening Integrity?</u>
 </p>
 </td>
 </tr>
@@ -241,8 +236,8 @@ Centre for Immersification, Associate Professor, SIT</p>
 <p>5.30pm – 5.40pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Closing speech by SIRION Chair, appreciation gifts to speakers</p>
-<p>&nbsp;<strong>Prof Andy Hor</strong>
+<p>Closing speech by SIRION Chair</p>
+<p><strong>Prof Andy Hor</strong>
 </p>
 <p>SIRION Chair, A*STAR Deputy Chief Executive (Research)&nbsp;</p>
 </td>
