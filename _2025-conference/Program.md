@@ -76,8 +76,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Prof David Vaux</strong>
 </p>
-<p>Honorary Professor, Walter and Eliza Hall Institute of Medical Research,
-University of Melbourne</p>
+<p>Honorary Professor, Walter and Eliza Hall Institute of Medical Research</p>
 <p><u>Research integrity - Whose responsibility?</u>
 </p>
 </td>
