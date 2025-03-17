@@ -6,7 +6,6 @@ description: ""
 ---
 <p><em>Program is tentative, and subject to change.</em>
 </p>
-<p></p>
 <h2>Conference Program</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -64,10 +63,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Session 1: Research with integrity- beyond the ethics checklist</strong>
 </p>
 </td>
@@ -120,10 +116,7 @@ University of Melbourne</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Session 2:&nbsp; Research integrity in focus: navigating challenges in specialised fields</strong>
 </p>
 </td>
@@ -161,10 +154,7 @@ University of Melbourne</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Session 3: Navigating the Ethics of AI</strong>
 </p>
 </td>
@@ -206,10 +196,7 @@ Centre for Immersification, Associate Professor, SIT</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Session 4: Can AI revolutionise academic publications?</strong>
 </p>
 </td>
