@@ -12,7 +12,7 @@ sections:
       variant: floating
       size: sm
       backgroundColor: gray
-      subtitle: Singapore Research Integrity Offices Network
+      subtitle: Singapore Institutional Research Integrity Offices Network
       alignment: right
       title: SIRION
   - infopic:
