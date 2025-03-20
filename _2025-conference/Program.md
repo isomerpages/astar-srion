@@ -178,8 +178,7 @@ Innovation), NUS</p>
 <td rowspan="1" colspan="1">
 <p><strong>Assoc Prof Jeannie Lee</strong>
 </p>
-<p>Director of Programmes, Infocomm Technology Cluster, Deputy Director,
-Centre for Immersification, Associate Professor, SIT</p>
+<p>Deputy Director, Centre for Immersification, Associate Professor, SIT</p>
 <p><u>Ethical challenges of the Metaverse</u>
 </p>
 </td>
