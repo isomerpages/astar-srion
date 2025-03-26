@@ -2,6 +2,7 @@ collections:
   2025-conference:
     output: true
     order:
+      - Conference Organising Committee.md
       - 2025 Research Integrity Conference.md
       - Program.md
       - Speakers' Biographies.md
