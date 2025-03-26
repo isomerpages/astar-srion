@@ -163,15 +163,14 @@ Research Integrity Foundation (WCRIF) and was the Co-Chair for the 6<sup>th</sup
 World Conference on Research Integrity in 2019. Working together with the
 international consortium, she promotes responsible conduct of research
 and good science in universities and research institutions.</p>
-<p>&nbsp;</p>
-<p>As a developmental geneticist, Professor Sham leads a research team focusing
-on the molecular mechanisms of mammalian development and human congenital
-disorders. Her research covers areas of gene regulation and molecular signaling,
-craniofacial and hearing disorders, genetic bases and mutant mouse models
-of rare human diseases, stem cells, and tissue regeneration. She is currently
-the President of the Hong Kong Society for Developmental Biology. She serves
-as an Associate Editor for <em>Gene Expression Patterns</em> and an Editor
-for <em>Cell and Bioscience</em>.</p>
+<p>&nbsp;As a developmental geneticist, Professor Sham leads a research team
+focusing on the molecular mechanisms of mammalian development and human
+congenital disorders. Her research covers areas of gene regulation and
+molecular signaling, craniofacial and hearing disorders, genetic bases
+and mutant mouse models of rare human diseases, stem cells, and tissue
+regeneration. She is currently the President of the Hong Kong Society for
+Developmental Biology. She serves as an Associate Editor for <em>Gene Expression Patterns</em> and
+an Editor for <em>Cell and Bioscience</em>.</p>
 <h4>Prof Simon CHESTERMAN</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -214,7 +213,6 @@ on Restricted Human Biomedical Research, and the National Advisory Committee
 for Laboratory Animal Research. He is an elected member of the Board of
 Directors for the International Association of Bioethics.</p>
 <h4></h4>
-<p></p>
 <h3>Guests of Honour</h3>
 <h4>Prof CHNG Wee Joo</h4>
 <p></p>
@@ -304,7 +302,7 @@ European Gastroenterology Research Prize, the Innovation Award of the German
 Felix Burda Society, a Clinical Mentorship Award by the American Gastroenterology
 Association, and the Dutch Healthcare Executive of the Year Award.</p>
 <p></p>
-<h3>Address by SIRION Chair</h3>
+<h3>SIRION Chair</h3>
 <h4>Prof Andy HOR</h4>
 <p></p>
 <div class="isomer-image-wrapper">
