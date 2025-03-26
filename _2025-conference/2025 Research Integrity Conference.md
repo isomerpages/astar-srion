@@ -7,7 +7,7 @@ description: 2025 SIRION Research Integrity Conference
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Conference Flyer 20250313" src="/images/Conference_Flyer_20250313.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Conference Flyer" src="/images/SIRION_Conference_Flyer_20250326.png">
 </div>
 <p><a href="https://www.eventbrite.sg/e/sirion-research-integrity-conference-2025-tickets-1234232114479?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">Click here to Register</a>
 </p>
@@ -17,12 +17,14 @@ description: 2025 SIRION Research Integrity Conference
 <p><strong>30 Biopolis Street, Singapore 138671</strong>
 </p>
 <h3>Program</h3>
-<p>Tentative program available <a href="/program/" rel="noopener nofollow" target="_blank">here</a>
+<p>Available <a href="/program/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <h3>Speakers</h3>
-<p>Speakers' biographies available <a href="/speakers/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Speakers' biographies available <a href="/speakers/" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <h3>Poster Presentation</h3>
-<p>Instructions and details on poster abstract submission available <a href="/poster-presentation/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Instructions and details on poster abstract submission available <a href="/poster-presentation/" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <h3>Conference Organising Committee</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -157,14 +159,6 @@ description: 2025 SIRION Research Integrity Conference
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nicole Yeo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Research Office, A*STAR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Kang Li Xin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,6 +168,14 @@ description: 2025 SIRION Research Integrity Conference
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mazlina Banu Jaikubali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Research Office, A*STAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nicole Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Office, A*STAR</p>
