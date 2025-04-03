@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="poster submission timeline" src="/images/Poster_Submission_Timeline_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Poster Submission Timeline" src="/images/Poster_Submission_Timeline_4.png">
 </div>
 <h4><strong><u>Abstract Guidelines</u></strong></h4>
 <ol data-tight="true" class="tight">
@@ -15,7 +16,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" target="_blank">sirion.singapore@gmail.com</a>.</p>
 </li>
 <li>
-<p>Deadline for Poster Abstract Submission: <strong>31 March 2025</strong>
+<p>Extended deadline for Poster Abstract Submission: <strong>14 April 2025</strong>
 </p>
 </li>
 <li>
