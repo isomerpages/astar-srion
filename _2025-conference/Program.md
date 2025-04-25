@@ -202,7 +202,7 @@ Innovation), NUS</p>
 <td rowspan="1" colspan="1">
 <p><strong>Dr Magdalena Skipper</strong>
 </p>
-<p>Nature Editor-in-Chief</p>
+<p>Editor-in-Chief, Nature</p>
 <p><em><u>Talk title to be confirmed</u></em>
 </p>
 </td>
