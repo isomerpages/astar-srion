@@ -120,7 +120,7 @@ of Hong Kong</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.55pm – 12.30pm</p>
+<p>11.55am – 12.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Dr Voo Teck Chuan</strong>
