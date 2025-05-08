@@ -203,7 +203,7 @@ Innovation), NUS</p>
 <p><strong>Dr Magdalena Skipper</strong>
 </p>
 <p>Editor-in-Chief, Nature</p>
-<p><em><u>Talk title to be confirmed</u></em>
+<p><u>Research integrity – a common responsibility to be taken seriously</u>
 </p>
 </td>
 </tr>

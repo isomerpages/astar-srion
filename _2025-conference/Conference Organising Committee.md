@@ -178,14 +178,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Charlene Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academic &amp; Research Compliance and Integrity Office, NUS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Terence Lee</p>
 </td>
 <td rowspan="1" colspan="1">
