@@ -20,7 +20,7 @@ description: 2025 SIRION Research Integrity Conference
 <p>Speakers' biographies available <a href="/speakers/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <h3>Poster Presentation</h3>
-<p>Instructions and details on poster abstract submission available <a href="/poster-presentation/" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<p>Poster Abstract Submissions have now closed, and final round of judging
+will occur during the Poster Sessions on the Conference Day.</p>
 <p>&nbsp;</p>
 <p></p>
