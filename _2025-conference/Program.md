@@ -100,7 +100,7 @@ description: ""
 </p>
 <p>Pro-Vice-Chancellor / Vice-President (Research), The Chinese University
 of Hong Kong</p>
-<p><em><u>Talk title to be confirmed</u></em>
+<p><u>Fostering Responsible Conduct of Research through Data Management and Open Science</u>
 </p>
 </td>
 </tr>
