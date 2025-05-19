@@ -8,6 +8,9 @@ description: 2025 SIRION Research Integrity Conference
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Conference Flyer" src="/images/Conference_Flyer_20250508.png">
 </div>
+<h3>Registrations</h3>
+<p>Online registrations have now closed. A limited number of onsite registrations
+will be available for walk-in participants.</p>
 <h3>Venue</h3>
 <p><strong>Theatrette 1, Level 2 Matrix Building,</strong>
 </p>
