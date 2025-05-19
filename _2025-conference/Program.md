@@ -65,6 +65,7 @@ description: ""
 <td rowspan="1" colspan="2">
 <p><strong>Session 1: Research with integrity - beyond the ethics checklist</strong>
 </p>
+<p>Moderated by AP Desmond Chong (SIT)</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +82,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.15am – 10.50am</p>
+<p>10.15am - 10.45am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Morning tea</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.45am – 11.20am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Prof Abhi Veerakumarasivam</strong>
@@ -93,7 +102,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.50am – 11.25am</p>
+<p>11.20am – 11.55am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Prof Mai Har Sham</strong>
@@ -105,17 +114,10 @@ of Hong Kong</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>11.25am – 11.55am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Morning tea</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Session 2:&nbsp; Research integrity in focus - overcoming challenges in specialised fields</strong>
 </p>
+<p>Moderated by Prof Tang Hang Wu (SMU)</p>
 </td>
 </tr>
 <tr>
@@ -154,6 +156,7 @@ of Hong Kong</p>
 <td rowspan="1" colspan="2">
 <p><strong>Session 3: Navigating the Ethics of AI</strong>
 </p>
+<p>Moderated by AP U-Xuan Tan (SUTD)</p>
 </td>
 </tr>
 <tr>
@@ -193,6 +196,7 @@ Innovation), NUS</p>
 <td rowspan="1" colspan="2">
 <p><strong>Session 4: Can AI revolutionise academic publications?</strong>
 </p>
+<p>Moderated by Prof Nicholas Sim (SUSS)</p>
 </td>
 </tr>
 <tr>
@@ -236,7 +240,7 @@ Tung University</p>
 <p>Closing speech by SIRION Chair</p>
 <p><strong>Prof Andy Hor</strong>
 </p>
-<p>SIRION Chair, A*STAR Deputy Chief Executive (Research)&nbsp;</p>
+<p>SIRION Chair and A*STAR Deputy Chief Executive (Research)&nbsp;</p>
 </td>
 </tr>
 </tbody>
