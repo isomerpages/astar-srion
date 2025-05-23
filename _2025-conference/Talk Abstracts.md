@@ -89,11 +89,7 @@ and ultimately its benefit to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>10.45am</strong>
-</p>
-<p><strong>-</strong>
-</p>
-<p><strong>11.20am</strong>
+<p><strong>10.45am – 11.20am</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -278,9 +274,7 @@ financial returns rather than longer-term benefits for all of humanity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2.50pm –</strong>
-</p>
-<p><strong>3.25pm</strong>
+<p><strong>2.50pm – 3.25pm</strong>
 </p>
 <p>&nbsp;</p>
 <p></p>
