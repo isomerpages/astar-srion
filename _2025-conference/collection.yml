@@ -2,9 +2,9 @@ collections:
   2025-conference:
     output: true
     order:
-      - Talk Abstracts.md
       - 2025 Research Integrity Conference.md
       - Conference Organising Committee.md
       - Program Overview.md
       - Speakers.md
+      - Talk Abstracts.md
       - Poster Presentation.md
