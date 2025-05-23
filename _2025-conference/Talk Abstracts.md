@@ -22,6 +22,39 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>9.00am – 9.05am</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Welcome by Conference Chair</strong>
+</p>
+<p>Prof Ng Huck Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>9.05am – 9.25am</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Guest of Honour Addresses</strong>
+</p>
+<p>Prof Chng Wee Joo</p>
+<p>Prof Ernst J Kuipers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Session 1: Research with integrity - beyond the ethics checklist</strong>
+</p>
+<p>Moderated by AP Desmond Chong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>9.25am – 10.15am</strong>
 </p>
 <p></p>
@@ -125,20 +158,10 @@ perspectives in fostering a culture of research integrity.</p>
 <p><strong>Fostering Responsible Conduct of Research through Data Management and Open Science</strong>
 </p>
 <p>Prof Mai Har Sham</p>
-<p></p>
 <p><strong>Talk Abstract</strong>
 </p>
 <p><em>Pending</em>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -175,7 +198,6 @@ principle of accountability.</p>
 <p><strong>Visual Integrity in the Age of Gen AI: Ethical Challenges and Opportunities in Art and Design</strong>
 </p>
 <p>Asst Prof Lisa Winstanley</p>
-<p></p>
 <p><strong>Talk Abstract</strong>
 </p>
 <p>Defining and safeguarding visual integrity in art and design is a fundamental
@@ -249,7 +271,6 @@ positioning ethical design practices at the forefront of creative inquiry.</p>
 <p><strong>The AI Made Me Do It: Research Integrity in an Age of Hallucinations and Perverse Incentives</strong>
 </p>
 <p>Prof Simon Chesterman</p>
-<p>&nbsp;</p>
 <p><strong>Talk Abstract</strong>
 </p>
 <p>This presentation will discuss the potential and limitations of AI governance
@@ -324,19 +345,6 @@ evolve as technology develops.</p>
 <p><strong>Research integrity – a common responsibility to be taken seriously</strong>
 </p>
 <p>Dr Magdalena Skipper</p>
-<p>&nbsp;</p>
-<p><strong>Speaker Bio</strong>
-</p>
-<p>Magdalena Skipper is Editor in Chief of&nbsp;<em>Nature</em>&nbsp;and
-Chief Editorial Advisor for the Nature Portfolio. A geneticist by training,
-she holds a PhD from University of Cambridge, UK. She has considerable
-editorial and publishing experience, having worked as Chief Editor for&nbsp;<em>Nature Reviews Genetics</em>,
-Senior Editor for genetics and genomics at&nbsp;<em>Nature</em>&nbsp;and
-Editor in Chief of&nbsp;<em>Nature Communications</em>. She is passionate
-about mentorship, research integrity, as well as collaboration and inclusion
-in research. As part of her desire to promote underrepresented groups in
-research, in 2018 she co-launched the nature Research Inspiring Science
-Award for women early-career researchers.</p>
 <p><strong>Talk Abstract</strong>
 </p>
 <p>Research community is akin to a complex and diverse ecosystem, comprised
@@ -359,7 +367,6 @@ depend on it.</p>
 <p><strong>Artificial Intelligence (AI) in Academic Peer Review: Enhancing Efficiency or Threatening Integrity?</strong>
 </p>
 <p>Prof Chien Chou</p>
-<p></p>
 <p><strong>Talk Abstract</strong>
 </p>
 <p>Peer review has long been essential for assessing research projects and
