@@ -4,13 +4,13 @@ permalink: /poster-presentation/
 variant: tiptap
 description: ""
 ---
-<h3>Poster 1:</h3>
+<h3>Poster 1</h3>
 <p>A degrading academic teaching and research culture: failures, struggles
 and reflections from an auto-ethnography study.</p>
-<h4>Authors &amp; Affiliations:</h4>
+<h4>Authors &amp; Affiliations</h4>
 <p>Sohail Sangha - 3rd Year Doctoral Candidate, EPD Pillar, SUTD, Singapore</p>
 <p>Arlindo Silva - Associate Professor, EPD Pillar, SUTD, Singapore</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>Doctoral education in engineering is suffering from a spiraling feedback
 loop of publishing pressures, low-quality research, and lack of teaching
 rewards. First, faculty prioritizing research over undergraduate education
@@ -44,15 +44,15 @@ these norms. Our goal is to start a dialogue on altering our relationship
 with research, teaching, and the literature we produce, thus reshaping
 the conditions of our work.</p>
 <p> </p>
-<h3>Poster 2:</h3>
+<h3>Poster 2</h3>
 <p>Bridging the Gap in Academic Research: A Multimodal System for Querying
 and Understanding Scholarly Texts</p>
-<h4>Author &amp; Affiliations:</h4>
+<h4>Author &amp; Affiliations</h4>
 <p>Shubham Jariwala</p>
 <p>Singapore University of Technology and Design</p>
 <p><a href="mailto:shubhamrajeshkumar_jariwala@mymail.sutd.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shubhamrajeshkumar_jariwala@mymail.sutd.edu.sg</a>
 </p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>Academic research is a complex and time-intensive process that involves
 extensive literature reviews, data analysis, and synthesizing insights
 across multiple disciplines. Traditional research methods rely heavily
@@ -92,17 +92,17 @@ and intelligent research ecosystem.</p>
 Research Automation, Speech-to-Text Transcription, AI-Driven Literature
 Review, Semantic Search in Research, Automated Citation Generation</p>
 <p> </p>
-<h3>Poster 3:</h3>
+<h3>Poster 3</h3>
 <p>Understanding AI Acceptance Anxiety: A Study of Psychological Effects
 of GenAI tool Usage Among NTU Undergraduate Students.</p>
-<h4>Author &amp; Affiliations:</h4>
+<h4>Author &amp; Affiliations</h4>
 <p>Qu Yao, Loo Hui En (NTU)</p>
 <p><a href="mailto:yao008@e.ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yao008@e.ntu.edu.sg</a>,
 <a href="mailto:looh0012@e.ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">looh0012@e.ntu.edu.sg</a>
 </p>
 <p>This project is funded by the Lien Research Programme on Good Governance
 (LRPGG) Social Lab.</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>The integration of Generative AI (GenAI) in higher education raises ethical
 concerns about academic integrity, authorship, and transparency. As AI
 shifts from information retrieval (Google Effect) to content co-creation
@@ -135,13 +135,13 @@ dimensions of AI use, this research will help institutions develop policies
 that balance technological innovation with academic integrity, ensuring
 transparency while supporting student well-being.</p>
 <p> </p>
-<h3>Poster 4:</h3>
+<h3>Poster 4</h3>
 <p>Measuring the Singaporean Mental Lexicon: Lexical-Semantic Norms for Singapore
 English Words</p>
-<h4>Author &amp; Affiliations:</h4>
+<h4>Author &amp; Affiliations</h4>
 <p>Cynthia S. Q. Siew</p>
 <p>Department of Psychology, National University of Singapore</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>The goal of this project is to develop an integrated database of semantic,
 affective, and word association norms for a large set of Singapore English
 words. It is motivated by the observation that lexical-semantic word norms
@@ -158,11 +158,11 @@ science initiatives, my work contributes significantly to advancing cross-cultur
 psycholinguistic research and promoting open science principles within
 the social sciences.</p>
 <p> </p>
-<h3>Poster 5:</h3>
+<h3>Poster 5</h3>
 <p>Can understanding and empowering gender identities tackle job burnout
 while protecting the confidentiality and safety of vulnerable Singaporean
 workers?</p>
-<h4>Author &amp; Affiliations:</h4>
+<h4>Author &amp; Affiliations</h4>
 <p>GOH Zi An Galvyn is a PhD candidate on the President’s Graduate Fellowship
 scholarship at the Humanities, Arts, and Social Sciences pillar and the
 Language &amp; Social Cognition Lab at the Singapore University of Technology
@@ -170,7 +170,7 @@ and Design. His applied research builds on his prior and ongoing collaborations
 at the Lee Kuan Yew Centre for Innovative Cities from 2018 to present,
 including past collaborations with the Public Sector Division, labour unions,
 Singaporean and international companies.</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>Singaporean workers tend to experience a high prevalence and persistence
 of job burnout in a diverse range of professions, such as dentists, educators
 and healthcare workers (Aurora &amp; Knight, 2022; Chen et al., 2023; Smith
@@ -220,10 +220,10 @@ discrimination at the workplace to give feedback while protecting their
 safety, privacy and confidentiality, and this can help address their burnout
 in relation to their job tasks in the long term.</p>
 <p> </p>
-<h3>Poster 6:</h3>
+<h3>Poster 6</h3>
 <p>Development of Application-Specific Large Language Models to Facilitate
 Research Ethics Review</p>
-<h4>Authors &amp; affiliations:</h4>
+<h4>Authors &amp; affiliations</h4>
 <p>Sebastian Porsdam Mann,1,2,3 Joel Jiehao Seah,3 Stephen R. Latham,4 Julian
 Savulescu,3,6 Mateo Aboy,5 and Brian D. Earp3,6</p>
 <p>1. Centre for Advanced Studies in Bioscience Innovation Law (CeBIL), Faculty
@@ -240,7 +240,7 @@ Intellectual Property and Information Law (CIPIL), Faculty of Law, University
 of Cambridge, 5 West Rd, Cambridge CB3 9DP, United Kingdom</p>
 <p>6. Uehiro Centre for Practical Ethics, Faculty of Philosophy, University
 of Oxford, 16-17 Saint Ebbe's St, Oxford OX1 1PT, United Kingdom.</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>Institutional review boards (IRBs) play a crucial role in ensuring the
 ethical conduct of human subjects research, but face challenges including
 inconsistency, delays, and inefficiencies. We propose the development and
@@ -257,9 +257,9 @@ human judgment in critical decisions, IRB-specific LLMs offer a promising
 tool to improve research oversight. We call for pilot studies to evaluate
 the feasibility and impact of this approach.</p>
 <p> </p>
-<h3>Poster 7:</h3>
+<h3>Poster 7</h3>
 <p>Implementation of a “Fast Lane” Approach for Data Transfer at NUHS</p>
-<h4>Author &amp; Affiliations:</h4>
+<h4>Author &amp; Affiliations</h4>
 <p>Daryl TAY1,*, Stephanie Ruth TEO1,*, Joshua CHAN2,*, Adrian THIAN1, Ke
 Wei TAN1, Jiun-Yih LIN1, Anushia PANCHALINGHAM1, Valerie FOO1, Jessamine
 Geraldine GOH1, Yasotha NARENDRAN1, Bernard NGUANG2, Li Hui GOH1, Sankari
@@ -268,7 +268,7 @@ RAMANATHAN1, Elizabeth Huiwen THAM1,3</p>
 <p>2Research Transformation Office, National University Health Systems</p>
 <p>3Medical Affairs, National University Hospital</p>
 <p>*These authors contributed equally to this work.</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>In the rapidly evolving landscape of healthcare research, efficient data
 management and transfer processes are crucial for timely and impactful
 outcomes. National University Health System (NUHS) has implemented a "Fast
@@ -292,13 +292,13 @@ to accelerate research without compromising data security. This enables
 NUHS to collaborate effectively and efficiently with global partners allowing
 us to bring innovative healthcare solutions to our patients.</p>
 <p> </p>
-<h3>Poster 8:</h3>
+<h3>Poster 8</h3>
 <p>A Guide to AI Writing Tools: Opportunities and Challenges</p>
-<h4>Author &amp; Affiliations:</h4>
+<h4>Author &amp; Affiliations</h4>
 <p>Kevin Chong1, Foo Ngee Chih1, Ng Heok Hee1*</p>
 <p>Research Office, Agency for Science, Technology and Research (A*STAR),
 Singapore</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>Artificial Intelligence (AI) writing tools have significantly enhanced
 scientific writing by improving efficiency, precision, and clarity. Leveraging
 machine learning, natural language processing, and data analysis, these
@@ -320,10 +320,10 @@ tools, researchers can adopt responsible practices that enhance scientific
 communication while maintaining the highest standards of integrity and
 ethical authorship.</p>
 <p> </p>
-<h3>Poster 9:</h3>
+<h3>Poster 9</h3>
 <p>Using Risk Assessments to evaluate (or is it identify) potential risks
 in Investigator Initiated Clinical Trials (IICTs) – the NUHS approach.</p>
-<h4>Author &amp; Affiliations:</h4>
+<h4>Author &amp; Affiliations</h4>
 <p><em>Ms. Anushia Panchalingham, </em>Ms. Jessamine Goh, Dr. Goh Lihui,
 Ms. Valerie Foo, Mr. Adrian Thian, Mr. Daryl Tay, Ms. Yasotha Narendran,
 Ms. Tan Ke Wei, Ms. Jeannie Lin, Ms. Stephanie Ruth Teo, Dr. Sankari Ramanathan,
@@ -331,7 +331,7 @@ Asst. Prof Elizabeth Tham.</p>
 <p>Research Integrity and Compliance (RIC) unit, Research Office, National
 University Health Systems (NUHS).</p>
 <p>*Authors representing RIC for the poster presentation</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>With the increase in the number of Investigator Initiated Clinical Trials
 (IITs) in the National University Health Systems (NUHS), there is a greater
 burden on the institution to ensure that the trials conducted are of the
@@ -359,17 +359,17 @@ risk-stratified approach enables the institution to undertake a larger
 number of IITs and direct resources appropriately to ensure that there
 is pertinent governance and discharge of sponsor responsibilities.</p>
 <p> </p>
-<h3>Poster 10:</h3>
+<h3>Poster 10</h3>
 <p>Optimizing Oversight and Sponsor Management of Investigator-Initiated
 Trials in a Hospital Setting</p>
-<h4>Authors &amp; Affiliations:</h4>
+<h4>Authors &amp; Affiliations</h4>
 <p>Adrian THIAN1,*, Daryl TAY1,*, Ke Wei TAN1, Jiun-Yih LIN1, Stephanie Ruth
 TEO1, Anushia PANCHALINGHAM1, Valerie FOO1, Jessamine Geraldine GOH1, Yasotha
 NARENDRAN1, Li Hui GOH1, Sankari RAMANATHAN1, Elizabeth Huiwen THAM1,2</p>
 <p>1Research Office, National University Health Systems</p>
 <p>2Medical Affairs, National University Hospital</p>
 <p>*These authors contributed equally to this work.</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>Effective oversight of investigator-initiated trials (IITs) within hospital
 institutions is critical to ensuring patient safety, regulatory compliance,
 and high-quality data integrity. National University Hospital (NUH) plays
@@ -399,10 +399,10 @@ research. Continued collaboration with stakeholders including pharmaceutical
 companies, regulators, and public hospitals will further position NUH as
 a leading hub for high-quality clinical trials in Singapore.</p>
 <p> </p>
-<h3>Poster 11:</h3>
+<h3>Poster 11</h3>
 <p>Ensuring Ethical Excellence: A Robust Framework for Research Integrity
 in Universities</p>
-<h4>*Presenters, Authors:</h4>
+<h4>*Presenters, Authors</h4>
 <p>*Ms Lai, Chunying, Mr Lee, Terence, Ms Stanislaws, Anna, Dr Koh, Willie
 (NTU)</p>
 <p>*Ms Lai, Chunying, Assistant Manager, Research Integrity &amp; Ethics
@@ -425,7 +425,7 @@ Technological University, Singapore (NTU) (<a href="mailto:williekoh@ntu.edu.sg"
 to set up the office of Research Integrity &amp; Ethics at NTU in 2017
 and is now responsible for research governance and compliance matters at
 the university.</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>Nanyang Technological University, Singapore (NTU), a research-intensive
 public university, houses a vibrant community of over 5,000 faculty, research
 staff, and graduate students engaged in diverse projects across various
@@ -455,12 +455,12 @@ conferences, workshops, and bulletins.</p>
 a culture of ethical conduct and research integrity within its research
 communities.</p>
 <p> </p>
-<h3>Poster 12:</h3>
+<h3>Poster 12</h3>
 <p>From Process to Culture: Building Research Integrity Through Design-Driven
 Compliance</p>
-<h4>Authors &amp; affiliations:</h4>
+<h4>Authors &amp; affiliations</h4>
 <p>Yu Lan, Wan Kah Fei. Experimental Drug Development Centre (EDDC)</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>In an increasingly complex and technology-driven research environment,
 upholding research integrity requires more than reactive compliance, it
 calls for systems and practices that enable researchers to do the right
@@ -488,13 +488,13 @@ ecosystem, we believe that sustainable research integrity must be designed,
 not demanded. It is built, step by step, through thoughtful processes,
 inclusive training, and a shared commitment in doing what’s right.</p>
 <p> </p>
-<h3>Poster 13:</h3>
+<h3>Poster 13</h3>
 <p>Leveraging Technology to Ensure Compliance Through Institutional Systems</p>
-<h4>Author &amp; Affiliations:</h4>
+<h4>Author &amp; Affiliations</h4>
 <p>Ms Stanislaws, Anna; Ms Tan, Ying Shi; Mr Salim, Muhammad Helmi; Mr Lee,
 Terence; Dr Koh, Willie.</p>
 <p>Nanyang Technological University, Singapore (NTU)</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>Singapore’s NACLAR (National Advisory Committee for Laboratory Animal
 Research) Guidelines establish the foundation for the ethical use of animals
 in scientific research. The implementation of the 2nd Edition Guidelines
@@ -526,16 +526,16 @@ users are kept up to date, thus ensuring the ethical and responsible conduct
 of animal research and reinforcing NTU’s commitment to research integrity.
 These also reduce administrative burden and reinforces a culture of accountability
 and ethical rigour.  </p>
-<h3>Poster 14:</h3>
+<h3>Poster 14</h3>
 <p>Strategies to Uphold Good Practices in Ethics Compliance at A*STAR Skin
 Research Labs: An Institutional Commitment to Research Excellence</p>
-<h4>Author &amp; Affiliations:</h4>
+<h4>Author &amp; Affiliations</h4>
 <p>Maria del Mar Alvarez, Sharon Chiang, Maureen Chia, Sophie Bellanger,
 Dinish U.S, Li Lin, Carine Bonnard, Thomas Dawson</p>
 <p>A*STAR Skin Research Labs (A*STAR SRL), Agency for Science, Technology
 and Research (A*STAR), 8A Biomedical Grove, #06-06, Immunos, Singapore
 138648, Republic of Singapore.</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>Ensuring ethics compliance is central to upholding research integrity
 and promoting institutional excellence. The A*STAR Skin Research Labs (A*STAR
 SRL) HBR Committee has implemented a set of strategies, grouped into four
@@ -565,14 +565,14 @@ in research practices.</p>
 <p>The A*STAR SRL HBR Committee aims to upholds research excellence through
 strong ethics governance and proactive support for the research community.</p>
 <p> </p>
-<h3>Poster 15:</h3>
+<h3>Poster 15</h3>
 <p>Promotes IRB/HBRA awareness &amp; compliance via Chatbot</p>
-<h4>Author &amp; Affiliations:</h4>
+<h4>Author &amp; Affiliations</h4>
 <p>Tham Yi Chuey1, Cheryl Teo Wei Ling1, Yeoh Wooi Gan1, Mr Gunady Ng2, Mr
 Lee Yu Kai2, Janakiraman Prashanth2, Zheng Yitao2, Tan Kye Min2, Jiang
 Ridong2, Quek Ming Kai Elton2,</p>
 <p>1A*STAR I2R, 2 A*STAR ITSS</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>The challenges and our approach</p>
 <p>To effectively build awareness on ethics &amp; compliance in IRB/HBR regulated
 research, we look at the challenges faced by our researchers on getting
@@ -608,12 +608,12 @@ and comprehensive question-answer pairs).</p>
 <p>The chatbot is developed by I²R’s Integrated Digital Product Centre and
 Aural &amp; Language Intelligence teams.</p>
 <p> </p>
-<h3>Poster 16:</h3>
+<h3>Poster 16</h3>
 <p>AI Ethics in Mental Health Research</p>
-<h4>Author &amp; Affiliations:</h4>
+<h4>Author &amp; Affiliations</h4>
 <p>Dr. Jing Shi, Assistant Professor, Health and Social Science, Singapore
 Institute of Technology</p>
-<h4>Abstract:</h4>
+<h4>Abstract</h4>
 <p>The integration of artificial intelligence (AI) into mental health research
 presents unprecedented opportunities for advancing diagnosis, prediction,
 and personalized interventions. However, it also introduces critical ethical
