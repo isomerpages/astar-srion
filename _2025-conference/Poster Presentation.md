@@ -568,13 +568,15 @@ and comprehensive question-answer pairs).</p>
 <p>Acknowledgement</p>
 <p>The chatbot is developed by I²R’s Integrated Digital Product Centre and
 Aural &amp; Language Intelligence teams.</p>
-<p> </p>
-<h3>Poster 16</h3>
-<p>AI Ethics in Mental Health Research</p>
-<h4>Author &amp; Affiliations</h4>
-<p>Dr. Jing Shi, Assistant Professor, Health and Social Science, Singapore
-Institute of Technology</p>
-<h4>Abstract</h4>
+<hr>
+<p>Poster 16:</p>
+<blockquote>
+<p><strong>Promotes IRB/HBRA awareness &amp; compliance via Chatbot</strong>
+</p>
+</blockquote>
+<p>Jing Shi</p>
+<p><strong>Abstract</strong>
+</p>
 <p>The integration of artificial intelligence (AI) into mental health research
 presents unprecedented opportunities for advancing diagnosis, prediction,
 and personalized interventions. However, it also introduces critical ethical
