@@ -4,19 +4,16 @@ permalink: /poster-presentation/
 variant: tiptap
 description: ""
 ---
-<p>Explore the poster abstracts below, and be sure to visit each display
-to discover more in-depth insights!</p>
+<h2>Poster Presentations</h2>
 <p></p>
+<p>Poster 1:</p>
 <blockquote>
-<p>Poster 1</p>
-<p><strong>A degrading academic teaching and research culture: failures, struggles and reflections from an auto-ethnography study.</strong>
+<p><strong>A degrading academic teaching and research culture: failures, struggles and reflections from an auto-ethnography study</strong>
 </p>
 </blockquote>
-<p><strong>Authors &amp; Affiliations</strong>
+<p>Sohail Sanghab &amp; Arlindo Silva</p>
+<p><strong>Abstract</strong>
 </p>
-<p>Sohail Sangha, SUTD</p>
-<p>Arlindo Silva, SUTD</p>
-<h4>Abstract</h4>
 <p>Doctoral education in engineering is suffering from a spiraling feedback
 loop of publishing pressures, low-quality research, and lack of teaching
 rewards. First, faculty prioritizing research over undergraduate education
@@ -49,16 +46,15 @@ fast-paced publication/citation) to consider our collective role in perpetuating
 these norms. Our goal is to start a dialogue on altering our relationship
 with research, teaching, and the literature we produce, thus reshaping
 the conditions of our work.</p>
-<p> </p>
-<h3>Poster 2</h3>
-<p>Bridging the Gap in Academic Research: A Multimodal System for Querying
-and Understanding Scholarly Texts</p>
-<h4>Author &amp; Affiliations</h4>
-<p>Shubham Jariwala</p>
-<p>Singapore University of Technology and Design</p>
-<p><a href="mailto:shubhamrajeshkumar_jariwala@mymail.sutd.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shubhamrajeshkumar_jariwala@mymail.sutd.edu.sg</a>
+<hr>
+<p>Poster 2:</p>
+<blockquote>
+<p><strong>Bridging the Gap in Academic Research: A Multimodal System for Querying and Understanding Scholarly Texts</strong>
 </p>
-<h4>Abstract</h4>
+</blockquote>
+<p>Shubham Jariwala</p>
+<p><strong>Abstract</strong>
+</p>
 <p>Academic research is a complex and time-intensive process that involves
 extensive literature reviews, data analysis, and synthesizing insights
 across multiple disciplines. Traditional research methods rely heavily
@@ -93,22 +89,15 @@ contextual understanding, integrating domain-specific expertise, and ensuring
 greater transparency. Ultimately, multimodal AI assistants have the potential
 to revolutionize academic research, fostering a more efficient, inclusive,
 and intelligent research ecosystem.</p>
-<p>Keywords:</p>
-<p>Multimodal AI Assistants, Natural Language Processing (NLP), Academic
-Research Automation, Speech-to-Text Transcription, AI-Driven Literature
-Review, Semantic Search in Research, Automated Citation Generation</p>
-<p> </p>
-<h3>Poster 3</h3>
-<p>Understanding AI Acceptance Anxiety: A Study of Psychological Effects
-of GenAI tool Usage Among NTU Undergraduate Students.</p>
-<h4>Author &amp; Affiliations</h4>
-<p>Qu Yao, Loo Hui En (NTU)</p>
-<p><a href="mailto:yao008@e.ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yao008@e.ntu.edu.sg</a>,
-<a href="mailto:looh0012@e.ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">looh0012@e.ntu.edu.sg</a>
+<hr>
+<p>Poster 3:</p>
+<blockquote>
+<p><strong>Understanding AI Acceptance Anxiety: A Study of Psychological Effects of GenAI tool Usage Among NTU Undergraduate Students</strong>
 </p>
-<p>This project is funded by the Lien Research Programme on Good Governance
-(LRPGG) Social Lab.</p>
-<h4>Abstract</h4>
+</blockquote>
+<p>Qu Yao &amp; Loo Hui En</p>
+<p><strong>Abstract</strong>
+</p>
 <p>The integration of Generative AI (GenAI) in higher education raises ethical
 concerns about academic integrity, authorship, and transparency. As AI
 shifts from information retrieval (Google Effect) to content co-creation
@@ -140,14 +129,15 @@ for discipline-specific AI policies. By addressing the ethical and psychological
 dimensions of AI use, this research will help institutions develop policies
 that balance technological innovation with academic integrity, ensuring
 transparency while supporting student well-being.</p>
-<p> </p>
-<h3>Poster 4</h3>
-<p>Measuring the Singaporean Mental Lexicon: Lexical-Semantic Norms for Singapore
-English Words</p>
-<h4>Author &amp; Affiliations</h4>
+<hr>
+<p>Poster 4:</p>
+<blockquote>
+<p><strong>Measuring the Singaporean Mental Lexicon: Lexical-Semantic Norms for Singapore English Words</strong>
+</p>
+</blockquote>
 <p>Cynthia S. Q. Siew</p>
-<p>Department of Psychology, National University of Singapore</p>
-<h4>Abstract</h4>
+<p><strong>Abstract</strong>
+</p>
 <p>The goal of this project is to develop an integrated database of semantic,
 affective, and word association norms for a large set of Singapore English
 words. It is motivated by the observation that lexical-semantic word norms
@@ -163,20 +153,15 @@ by Singaporeans. By embracing open science practices and promoting citizen
 science initiatives, my work contributes significantly to advancing cross-cultural
 psycholinguistic research and promoting open science principles within
 the social sciences.</p>
-<p> </p>
-<h3>Poster 5</h3>
-<p>Can understanding and empowering gender identities tackle job burnout
-while protecting the confidentiality and safety of vulnerable Singaporean
-workers?</p>
-<h4>Author &amp; Affiliations</h4>
-<p>GOH Zi An Galvyn is a PhD candidate on the President’s Graduate Fellowship
-scholarship at the Humanities, Arts, and Social Sciences pillar and the
-Language &amp; Social Cognition Lab at the Singapore University of Technology
-and Design. His applied research builds on his prior and ongoing collaborations
-at the Lee Kuan Yew Centre for Innovative Cities from 2018 to present,
-including past collaborations with the Public Sector Division, labour unions,
-Singaporean and international companies.</p>
-<h4>Abstract</h4>
+<hr>
+<p>Poster 5:</p>
+<blockquote>
+<p><strong>Can understanding and empowering gender identities tackle job burnout while protecting the confidentiality and safety of vulnerable Singaporean workers?</strong>
+</p>
+</blockquote>
+<p>Goh Zi An Galvyn</p>
+<p><strong>Abstract</strong>
+</p>
 <p>Singaporean workers tend to experience a high prevalence and persistence
 of job burnout in a diverse range of professions, such as dentists, educators
 and healthcare workers (Aurora &amp; Knight, 2022; Chen et al., 2023; Smith
@@ -225,28 +210,16 @@ enabling persons with minority gender identities who may face gender identity
 discrimination at the workplace to give feedback while protecting their
 safety, privacy and confidentiality, and this can help address their burnout
 in relation to their job tasks in the long term.</p>
-<p> </p>
-<h3>Poster 6</h3>
-<p>Development of Application-Specific Large Language Models to Facilitate
-Research Ethics Review</p>
-<h4>Authors &amp; affiliations</h4>
-<p>Sebastian Porsdam Mann,1,2,3 Joel Jiehao Seah,3 Stephen R. Latham,4 Julian
-Savulescu,3,6 Mateo Aboy,5 and Brian D. Earp3,6</p>
-<p>1. Centre for Advanced Studies in Bioscience Innovation Law (CeBIL), Faculty
-of Law, University of Copenhagen, Karen Blixens Pl. 16, 2300 Copenhagen,
-Denmark</p>
-<p>2. Faculty of Law, University of Oxford, St Cross Building St. Cross Rd,
-Oxford OX1 3UL, United Kingdom.</p>
-<p>3. Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, National
-University of Singapore, 10 Medical Dr, #02-03 MD 11, Singapore 117597.</p>
-<p>4. Yale Interdisciplinary Center for Bioethics, Yale University, 238 Prospect
-St, New Haven, CT 06511, USA.</p>
-<p>5. Centre for Law, Medicine, and Life Sciences (LML) &amp; Centre for
-Intellectual Property and Information Law (CIPIL), Faculty of Law, University
-of Cambridge, 5 West Rd, Cambridge CB3 9DP, United Kingdom</p>
-<p>6. Uehiro Centre for Practical Ethics, Faculty of Philosophy, University
-of Oxford, 16-17 Saint Ebbe's St, Oxford OX1 1PT, United Kingdom.</p>
-<h4>Abstract</h4>
+<hr>
+<p>Poster 6:</p>
+<blockquote>
+<p><strong>Development of Application-Specific Large Language Models to Facilitate Research Ethics Review</strong>
+</p>
+</blockquote>
+<p>Sebastian Porsdam Mann, Joel Jiehao Seah, Stephen R. Latham, Julian Savulescu,
+Mateo Aboy and Brian D. Earp</p>
+<p><strong>Abstract</strong>
+</p>
 <p>Institutional review boards (IRBs) play a crucial role in ensuring the
 ethical conduct of human subjects research, but face challenges including
 inconsistency, delays, and inefficiencies. We propose the development and
@@ -262,19 +235,18 @@ By enhancing the efficiency and quality of ethical review while maintaining
 human judgment in critical decisions, IRB-specific LLMs offer a promising
 tool to improve research oversight. We call for pilot studies to evaluate
 the feasibility and impact of this approach.</p>
-<p> </p>
-<h3>Poster 7</h3>
-<p>Implementation of a “Fast Lane” Approach for Data Transfer at NUHS</p>
-<h4>Author &amp; Affiliations</h4>
-<p>Daryl TAY1,*, Stephanie Ruth TEO1,*, Joshua CHAN2,*, Adrian THIAN1, Ke
-Wei TAN1, Jiun-Yih LIN1, Anushia PANCHALINGHAM1, Valerie FOO1, Jessamine
-Geraldine GOH1, Yasotha NARENDRAN1, Bernard NGUANG2, Li Hui GOH1, Sankari
-RAMANATHAN1, Elizabeth Huiwen THAM1,3</p>
-<p>1Research Office, National University Health Systems</p>
-<p>2Research Transformation Office, National University Health Systems</p>
-<p>3Medical Affairs, National University Hospital</p>
-<p>*These authors contributed equally to this work.</p>
-<h4>Abstract</h4>
+<hr>
+<p>Poster 6:</p>
+<blockquote>
+<p><strong>Implementation of a “Fast Lane” Approach for Data Transfer at NUHS</strong>
+</p>
+</blockquote>
+<p>Daryl Tay, Stephanie Ruth Teo, Joshua Chan, Adrian Thian, Ke Wei Tan,
+Jiun-Yih Lin, Anushia Panchalingham, Valerie Foo, Jessamine Geraldine Goh,
+Yasotha Narendran, Bernard Nguang, Li Hui Goh, Sankari Ramanathan, Elizabeth
+Huiwen Tham</p>
+<p><strong>Abstract</strong>
+</p>
 <p>In the rapidly evolving landscape of healthcare research, efficient data
 management and transfer processes are crucial for timely and impactful
 outcomes. National University Health System (NUHS) has implemented a "Fast
