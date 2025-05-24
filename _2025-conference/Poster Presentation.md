@@ -302,12 +302,12 @@ ethical authorship.</p>
 <hr>
 <p>Poster 9:</p>
 <blockquote>
-<p><strong>Using Risk Assessments to evaluate (or is it identify) potential risks in Investigator Initiated Clinical Trials (IICTs) – the NUHS approach.</strong>
+<p><strong>Using Risk Assessments to evaluate (or is it identify) potential risks in Investigator Initiated Clinical Trials (IICTs) – the NUHS approach</strong>
 </p>
 </blockquote>
 <p>Anushia Panchalingham, Jessamine Goh, Goh Lihui, Valerie Foo, Adrian Thian,
 Daryl Tay, Yasotha Narendran, Tan Ke Wei, Jeannie Lin, Stephanie Ruth Teo,
-Sankari Ramanathan and Elizabeth Tham.</p>
+Sankari Ramanathan and Elizabeth Tham</p>
 <p><strong>Abstract</strong>
 </p>
 <p>With the increase in the number of Investigator Initiated Clinical Trials
