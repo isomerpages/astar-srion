@@ -545,7 +545,7 @@ certain policies.</p>
 <p>We provide time-saving and easily accessible information for researchers
 anytime anywhere, via a chatbot. We have deployed the chatbot in May 2024,
 for access by all I²R staff.</p>
-<p><strong>Method</strong>
+<p><em>Method</em>
 </p>
 <p>How does the chatbot work?</p>
 <p>IRB/HBR knowledge base consists of question-answer pairs. It consists
@@ -564,11 +564,11 @@ via online feedback to improve the NLP engine.</p>
 base (e.g. analysis of response relevance and accuracy, analysis of nil
 responses provided by the chatbot, that guide us to design more targeted
 and comprehensive question-answer pairs).</p>
-<p><strong>Results</strong>
+<p><em>Results</em>
 </p>
 <p>Easier &amp; faster way to get information on IRB/HBR-related information.</p>
 <p>Reduce admin overheads for I²R HBRO on answering simple queries.</p>
-<p><strong>Acknowledgement</strong>
+<p><em>Acknowledgement</em>
 </p>
 <p>The chatbot is developed by I²R’s Integrated Digital Product Centre and
 Aural &amp; Language Intelligence teams.</p>
