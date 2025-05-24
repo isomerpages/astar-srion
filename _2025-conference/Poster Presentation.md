@@ -446,14 +446,15 @@ way.</p>
 ecosystem, we believe that sustainable research integrity must be designed,
 not demanded. It is built, step by step, through thoughtful processes,
 inclusive training, and a shared commitment in doing what’s right.</p>
-<p> </p>
-<h3>Poster 13</h3>
-<p>Leveraging Technology to Ensure Compliance Through Institutional Systems</p>
-<h4>Author &amp; Affiliations</h4>
-<p>Ms Stanislaws, Anna; Ms Tan, Ying Shi; Mr Salim, Muhammad Helmi; Mr Lee,
-Terence; Dr Koh, Willie.</p>
-<p>Nanyang Technological University, Singapore (NTU)</p>
-<h4>Abstract</h4>
+<p>Poster 13:</p>
+<blockquote>
+<p><strong>Leveraging Technology to Ensure Compliance Through Institutional Systems</strong>
+</p>
+</blockquote>
+<p>Stanislaws Anna, Tan Ying Shi, Salim Muhammad Helmi, Lee Terence, Koh
+Willie</p>
+<p><strong>Abstract</strong>
+</p>
 <p>Singapore’s NACLAR (National Advisory Committee for Laboratory Animal
 Research) Guidelines establish the foundation for the ethical use of animals
 in scientific research. The implementation of the 2nd Edition Guidelines
@@ -484,17 +485,16 @@ proactive training gap identifications and strategic resource allocation.</p>
 users are kept up to date, thus ensuring the ethical and responsible conduct
 of animal research and reinforcing NTU’s commitment to research integrity.
 These also reduce administrative burden and reinforces a culture of accountability
-and ethical rigour.  </p>
-<h3>Poster 14</h3>
-<p>Strategies to Uphold Good Practices in Ethics Compliance at A*STAR Skin
-Research Labs: An Institutional Commitment to Research Excellence</p>
-<h4>Author &amp; Affiliations</h4>
+and ethical rigour.</p>
+<p>Poster 14:</p>
+<blockquote>
+<p><strong>Strategies to Uphold Good Practices in Ethics Compliance at A*STAR Skin Research Labs: An Institutional Commitment to Research Excellence</strong>
+</p>
+</blockquote>
 <p>Maria del Mar Alvarez, Sharon Chiang, Maureen Chia, Sophie Bellanger,
-Dinish U.S, Li Lin, Carine Bonnard, Thomas Dawson</p>
-<p>A*STAR Skin Research Labs (A*STAR SRL), Agency for Science, Technology
-and Research (A*STAR), 8A Biomedical Grove, #06-06, Immunos, Singapore
-138648, Republic of Singapore.</p>
-<h4>Abstract</h4>
+Dinish U.S, Li Lin, Carine Bonnard and Thomas Dawson</p>
+<p><strong>Abstract</strong>
+</p>
 <p>Ensuring ethics compliance is central to upholding research integrity
 and promoting institutional excellence. The A*STAR Skin Research Labs (A*STAR
 SRL) HBR Committee has implemented a set of strategies, grouped into four
