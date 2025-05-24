@@ -374,34 +374,15 @@ Strengthening partnerships will drive more efficient and patient-centric
 research. Continued collaboration with stakeholders including pharmaceutical
 companies, regulators, and public hospitals will further position NUH as
 a leading hub for high-quality clinical trials in Singapore.</p>
-<p> </p>
-<h3>Poster 11</h3>
-<p>Ensuring Ethical Excellence: A Robust Framework for Research Integrity
-in Universities</p>
-<h4>*Presenters, Authors</h4>
-<p>*Ms Lai, Chunying, Mr Lee, Terence, Ms Stanislaws, Anna, Dr Koh, Willie
-(NTU)</p>
-<p>*Ms Lai, Chunying, Assistant Manager, Research Integrity &amp; Ethics
-Office, Nanyang Technological University, Singapore (NTU) (<a href="mailto:chunying.lai@ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chunying.lai@ntu.edu.sg</a>):
-Chunying is part of the office of Research Integrity &amp; Ethics at NTU
-since 2017 and supports research governance and ethics matters at the university.</p>
-<p>Mr Lee, Terence, Assistant Director, Research Integrity &amp; Ethics Office
-(RIEO), Nanyang Technological University, Singapore (NTU) (<a href="mailto:terence.leedl@ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">terence.leedl@ntu.edu.sg</a>):
-Terence supports NTU’s Research Integrity Officer and Director of RIEO
-on Research Integrity and Research compliance matters at the university.</p>
-<p>Ms Stanislaws, Anna, Research Governance (Integrity &amp; Ethics) Manager,
-Research Integrity &amp; Ethics Office, Nanyang Technological University,
-Singapore (NTU) (<a href="mailto:annamarina@ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annamarina@ntu.edu.sg</a>): She has
-actively contributed to university-wide initiatives aimed at cultivating
-a strong research integrity culture. As part of the University's IACUC
-secretariat, she ensures the institution maintains a robust animal care
-and use programme.</p>
-<p>Dr Koh, Willie, Director, Research Integrity &amp; Ethics Office, Nanyang
-Technological University, Singapore (NTU) (<a href="mailto:williekoh@ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">williekoh@ntu.edu.sg</a>): He helped
-to set up the office of Research Integrity &amp; Ethics at NTU in 2017
-and is now responsible for research governance and compliance matters at
-the university.</p>
-<h4>Abstract</h4>
+<hr>
+<p>Poster 11:</p>
+<blockquote>
+<p><strong>Ensuring Ethical Excellence: A Robust Framework for Research Integrity in Universities</strong>
+</p>
+</blockquote>
+<p>Lai Chunying, Lee Terence, Stanislaws Anna and Koh Willie</p>
+<p><strong>Abstract</strong>
+</p>
 <p>Nanyang Technological University, Singapore (NTU), a research-intensive
 public university, houses a vibrant community of over 5,000 faculty, research
 staff, and graduate students engaged in diverse projects across various
@@ -430,13 +411,15 @@ conferences, workshops, and bulletins.</p>
 <p>In conclusion, the Research Integrity framework in NTU has helped to cultivate
 a culture of ethical conduct and research integrity within its research
 communities.</p>
-<p> </p>
-<h3>Poster 12</h3>
-<p>From Process to Culture: Building Research Integrity Through Design-Driven
-Compliance</p>
-<h4>Authors &amp; affiliations</h4>
-<p>Yu Lan, Wan Kah Fei. Experimental Drug Development Centre (EDDC)</p>
-<h4>Abstract</h4>
+<hr>
+<p>Poster 12:</p>
+<blockquote>
+<p><strong>From Process to Culture: Building Research Integrity Through Design-Driven Compliance</strong>
+</p>
+</blockquote>
+<p>Yu Lan and Wan Kah Fei</p>
+<p><strong>Abstract</strong>
+</p>
 <p>In an increasingly complex and technology-driven research environment,
 upholding research integrity requires more than reactive compliance, it
 calls for systems and practices that enable researchers to do the right
