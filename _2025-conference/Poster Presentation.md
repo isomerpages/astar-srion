@@ -4,12 +4,18 @@ permalink: /poster-presentation/
 variant: tiptap
 description: ""
 ---
-<h3>Poster 1</h3>
-<p>A degrading academic teaching and research culture: failures, struggles
-and reflections from an auto-ethnography study.</p>
-<h4>Authors &amp; Affiliations</h4>
-<p>Sohail Sangha - 3rd Year Doctoral Candidate, EPD Pillar, SUTD, Singapore</p>
-<p>Arlindo Silva - Associate Professor, EPD Pillar, SUTD, Singapore</p>
+<p>Explore the poster abstracts below, and be sure to visit each display
+to discover more in-depth insights!</p>
+<p></p>
+<blockquote>
+<p>Poster 1</p>
+<p><strong>A degrading academic teaching and research culture: failures, struggles and reflections from an auto-ethnography study.</strong>
+</p>
+</blockquote>
+<p><strong>Authors &amp; Affiliations</strong>
+</p>
+<p>Sohail Sangha, SUTD</p>
+<p>Arlindo Silva, SUTD</p>
 <h4>Abstract</h4>
 <p>Doctoral education in engineering is suffering from a spiraling feedback
 loop of publishing pressures, low-quality research, and lack of teaching
