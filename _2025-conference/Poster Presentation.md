@@ -236,14 +236,14 @@ human judgment in critical decisions, IRB-specific LLMs offer a promising
 tool to improve research oversight. We call for pilot studies to evaluate
 the feasibility and impact of this approach.</p>
 <hr>
-<p>Poster 6:</p>
+<p>Poster 7:</p>
 <blockquote>
 <p><strong>Implementation of a “Fast Lane” Approach for Data Transfer at NUHS</strong>
 </p>
 </blockquote>
 <p>Daryl Tay, Stephanie Ruth Teo, Joshua Chan, Adrian Thian, Ke Wei Tan,
 Jiun-Yih Lin, Anushia Panchalingham, Valerie Foo, Jessamine Geraldine Goh,
-Yasotha Narendran, Bernard Nguang, Li Hui Goh, Sankari Ramanathan, Elizabeth
+Yasotha Narendran, Bernard Nguang, Li Hui Goh, Sankari Ramanathan and Elizabeth
 Huiwen Tham</p>
 <p><strong>Abstract</strong>
 </p>
@@ -269,14 +269,15 @@ while maintaining stringent privacy standards, NUHS has created a model
 to accelerate research without compromising data security. This enables
 NUHS to collaborate effectively and efficiently with global partners allowing
 us to bring innovative healthcare solutions to our patients.</p>
-<p> </p>
-<h3>Poster 8</h3>
-<p>A Guide to AI Writing Tools: Opportunities and Challenges</p>
-<h4>Author &amp; Affiliations</h4>
-<p>Kevin Chong1, Foo Ngee Chih1, Ng Heok Hee1*</p>
-<p>Research Office, Agency for Science, Technology and Research (A*STAR),
-Singapore</p>
-<h4>Abstract</h4>
+<hr>
+<p>Poster 8:</p>
+<blockquote>
+<p><strong>A Guide to AI Writing Tools: Opportunities and Challenges</strong>
+</p>
+</blockquote>
+<p>Kevin Chong, Foo Ngee Chih and Ng Heok Hee</p>
+<p><strong>Abstract</strong>
+</p>
 <p>Artificial Intelligence (AI) writing tools have significantly enhanced
 scientific writing by improving efficiency, precision, and clarity. Leveraging
 machine learning, natural language processing, and data analysis, these
@@ -297,19 +298,17 @@ standards. By understanding both the benefits and limitations of AI writing
 tools, researchers can adopt responsible practices that enhance scientific
 communication while maintaining the highest standards of integrity and
 ethical authorship.</p>
-<p> </p>
-<h3>Poster 9</h3>
-<p>Using Risk Assessments to evaluate (or is it identify) potential risks
-in Investigator Initiated Clinical Trials (IICTs) – the NUHS approach.</p>
-<h4>Author &amp; Affiliations</h4>
-<p><em>Ms. Anushia Panchalingham, </em>Ms. Jessamine Goh, Dr. Goh Lihui,
-Ms. Valerie Foo, Mr. Adrian Thian, Mr. Daryl Tay, Ms. Yasotha Narendran,
-Ms. Tan Ke Wei, Ms. Jeannie Lin, Ms. Stephanie Ruth Teo, Dr. Sankari Ramanathan,
-Asst. Prof Elizabeth Tham.</p>
-<p>Research Integrity and Compliance (RIC) unit, Research Office, National
-University Health Systems (NUHS).</p>
-<p>*Authors representing RIC for the poster presentation</p>
-<h4>Abstract</h4>
+<hr>
+<p>Poster 9:</p>
+<blockquote>
+<p><strong>Using Risk Assessments to evaluate (or is it identify) potential risks in Investigator Initiated Clinical Trials (IICTs) – the NUHS approach.</strong>
+</p>
+</blockquote>
+<p>Anushia Panchalingham, Jessamine Goh, Goh Lihui, Valerie Foo, Adrian Thian,
+Daryl Tay, Yasotha Narendran, Tan Ke Wei, Jeannie Lin, Stephanie Ruth Teo,
+Sankari Ramanathan and Elizabeth Tham.</p>
+<p><strong>Abstract</strong>
+</p>
 <p>With the increase in the number of Investigator Initiated Clinical Trials
 (IITs) in the National University Health Systems (NUHS), there is a greater
 burden on the institution to ensure that the trials conducted are of the
@@ -336,18 +335,17 @@ methodology to identify risks and reduce them to an acceptable level. The
 risk-stratified approach enables the institution to undertake a larger
 number of IITs and direct resources appropriately to ensure that there
 is pertinent governance and discharge of sponsor responsibilities.</p>
-<p> </p>
-<h3>Poster 10</h3>
-<p>Optimizing Oversight and Sponsor Management of Investigator-Initiated
-Trials in a Hospital Setting</p>
-<h4>Authors &amp; Affiliations</h4>
-<p>Adrian THIAN1,*, Daryl TAY1,*, Ke Wei TAN1, Jiun-Yih LIN1, Stephanie Ruth
-TEO1, Anushia PANCHALINGHAM1, Valerie FOO1, Jessamine Geraldine GOH1, Yasotha
-NARENDRAN1, Li Hui GOH1, Sankari RAMANATHAN1, Elizabeth Huiwen THAM1,2</p>
-<p>1Research Office, National University Health Systems</p>
-<p>2Medical Affairs, National University Hospital</p>
-<p>*These authors contributed equally to this work.</p>
-<h4>Abstract</h4>
+<hr>
+<p>Poster 10:</p>
+<blockquote>
+<p><strong>Optimizing Oversight and Sponsor Management of Investigator-Initiated Trials in a Hospital Setting</strong>
+</p>
+</blockquote>
+<p>Adrian Thian, Daryl Tay, Ke Wei Tan, Jiun-Yih Lin, Stephanie Ruth Teo,
+Anushia Panchalingam, Valerie Foo, Jessamine Geraldine Goh, Yasotha Narendran,
+Li Hui Goh, Sankari Ramanathan and Elizabeth Huiwen Tham</p>
+<p><strong>Abstract</strong>
+</p>
 <p>Effective oversight of investigator-initiated trials (IITs) within hospital
 institutions is critical to ensuring patient safety, regulatory compliance,
 and high-quality data integrity. National University Hospital (NUH) plays
