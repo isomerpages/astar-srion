@@ -4,7 +4,7 @@ permalink: /speakers/
 variant: tiptap
 description: ""
 ---
-<h1>Speakers' Biographies</h1>
+<h1>Speaker Biographies</h1>
 <h4>Dr Magdalena SKIPPER</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Magdalena Skipper" src="/images/M_SkipperEiC_headshot__1_.jpg">
