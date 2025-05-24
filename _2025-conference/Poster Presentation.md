@@ -486,6 +486,7 @@ users are kept up to date, thus ensuring the ethical and responsible conduct
 of animal research and reinforcing NTU’s commitment to research integrity.
 These also reduce administrative burden and reinforces a culture of accountability
 and ethical rigour.</p>
+<hr>
 <p>Poster 14:</p>
 <blockquote>
 <p><strong>Strategies to Uphold Good Practices in Ethics Compliance at A*STAR Skin Research Labs: An Institutional Commitment to Research Excellence</strong>
@@ -523,15 +524,16 @@ issues, supports early intervention and promotes continuous improvement
 in research practices.</p>
 <p>The A*STAR SRL HBR Committee aims to upholds research excellence through
 strong ethics governance and proactive support for the research community.</p>
-<p> </p>
-<h3>Poster 15</h3>
-<p>Promotes IRB/HBRA awareness &amp; compliance via Chatbot</p>
-<h4>Author &amp; Affiliations</h4>
-<p>Tham Yi Chuey1, Cheryl Teo Wei Ling1, Yeoh Wooi Gan1, Mr Gunady Ng2, Mr
-Lee Yu Kai2, Janakiraman Prashanth2, Zheng Yitao2, Tan Kye Min2, Jiang
-Ridong2, Quek Ming Kai Elton2,</p>
-<p>1A*STAR I2R, 2 A*STAR ITSS</p>
-<h4>Abstract</h4>
+<hr>
+<p>Poster 15:</p>
+<blockquote>
+<p><strong>Promotes IRB/HBRA awareness &amp; compliance via Chatbot</strong>
+</p>
+</blockquote>
+<p>Tham Yi Chuey, Cheryl Teo Wei Ling, Yeoh Wooi Gan, Gunady Ng, Lee Yu Kai,
+Janakiraman Prashanth, Zheng Tan Kye, Jiang Ridong and Quek Ming Kai Elton</p>
+<p><strong>Abstract</strong>
+</p>
 <p>The challenges and our approach</p>
 <p>To effectively build awareness on ethics &amp; compliance in IRB/HBR regulated
 research, we look at the challenges faced by our researchers on getting
