@@ -29,7 +29,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Welcome by Conference Chair</strong>
 </p>
-<p>Prof Ng Huck Hui</p>
+<p>by Prof Ng Huck Hui</p>
 </td>
 </tr>
 <tr>
@@ -40,8 +40,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Guest of Honour Addresses</strong>
 </p>
-<p>Prof Chng Wee Joo</p>
-<p>Prof Ernst J Kuipers</p>
+<p>by Prof Chng Wee Joo</p>
+<p>and Prof Ernst J Kuipers</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +60,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Keynote: Research integrity - Whose responsibility?</strong>
 </p>
-<p>Prof David Vaux</p>
+<p>by Prof David Vaux</p>
 <p>The increasing number of concerns posted about publications, and the growing
 number of retractions, can be looked at as evidence of flaws in the way
 research is conducted, or as evidence science is correcting itself. Errors
@@ -98,7 +98,7 @@ and ultimately its benefit to society.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Bridging the Trust Deficit: Building a Culture of Research Integrity in Southeast Asia</strong>
 </p>
-<p>Prof Abhi Veerakumarasivam</p>
+<p>by Prof Abhi Veerakumarasivam</p>
 <p>As more governments across Asia, particular Southeast Asia, recognise
 the role of research and development (R&amp;D) in driving innovation, improving
 quality of life, and promoting sustainable economic growth, research activities
@@ -147,7 +147,7 @@ perspectives in fostering a culture of research integrity.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Fostering Responsible Conduct of Research through Data Management and Open Science</strong>
 </p>
-<p>Prof Mai Har Sham</p>
+<p>by Prof Mai Har Sham</p>
 <p><em>Pending</em>
 </p>
 </td>
@@ -168,7 +168,7 @@ perspectives in fostering a culture of research integrity.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Research Integrity and Emerging Technologies: Clarity, Sustainability, and Accountability</strong>
 </p>
-<p>Dr Voo Teck Chuan</p>
+<p>by Dr Voo Teck Chuan</p>
 <p>Emerging technologies—such as artificial intelligence and gene editing—are
 increasingly blurring the line between research and innovation, creating
 challenges for research integrity. The research ecosystem needs to establish
@@ -190,7 +190,7 @@ principle of accountability.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Visual Integrity in the Age of Gen AI: Ethical Challenges and Opportunities in Art and Design</strong>
 </p>
-<p>Asst Prof Lisa Winstanley</p>
+<p>by Asst Prof Lisa Winstanley</p>
 <p>Defining and safeguarding visual integrity in art and design is a fundamental
 concern, especially as Generative Artificial Intelligence (Gen AI) becomes
 progressively integrated into creative workflows. This talk explores how
@@ -259,7 +259,7 @@ positioning ethical design practices at the forefront of creative inquiry.</p>
 <td rowspan="1" colspan="1">
 <p><strong>The AI Made Me Do It: Research Integrity in an Age of Hallucinations and Perverse Incentives</strong>
 </p>
-<p>Prof Simon Chesterman</p>
+<p>by Prof Simon Chesterman</p>
 <p>This presentation will discuss the potential and limitations of AI governance
 in the context of research integrity. AI, including generative AI, offers
 tremendous scope for maximising human potential and opening new frontiers
@@ -282,7 +282,7 @@ financial returns rather than longer-term benefits for all of humanity.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Ethical challenges of the Metaverse</strong>
 </p>
-<p>Assoc Prof Jeannie Lee</p>
+<p>by Assoc Prof Jeannie Lee</p>
 <p>First described in the science fiction novel Snow Crash, the Metaverse
 now describes a virtual shared space merging physical and digital realities,
 where users interact, create, and experience a variety of content through
@@ -326,7 +326,7 @@ evolve as technology develops.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Research integrity – a common responsibility to be taken seriously</strong>
 </p>
-<p>Dr Magdalena Skipper</p>
+<p>by Dr Magdalena Skipper</p>
 <p>Research community is akin to a complex and diverse ecosystem, comprised
 of many niches with distinct but interconnected roles and responsibilities.
 That research is conducted with integrity should be a common goal for everyone;
@@ -346,7 +346,7 @@ depend on it.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Artificial Intelligence (AI) in Academic Peer Review: Enhancing Efficiency or Threatening Integrity?</strong>
 </p>
-<p>Prof Chien Chou</p>
+<p>by Prof Chien Chou</p>
 <p>Peer review has long been essential for assessing research projects and
 manuscripts. The rapid development of artificial intelligence (AI), particularly
 generative AI since late 2022, has both benefited and posed challenges
@@ -382,7 +382,7 @@ academic research.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Closing by SIRION Chair</strong>
 </p>
-<p>Prof Andy Hor</p>
+<p>by Prof Andy Hor</p>
 </td>
 </tr>
 </tbody>
