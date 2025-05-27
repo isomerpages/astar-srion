@@ -209,7 +209,7 @@ Innovation), NUS</p>
 <td rowspan="1" colspan="2">
 <p><strong>Session 4: Can AI revolutionise academic publications?</strong>
 </p>
-<p>Moderated by Prof Nicholas Sim (SUSS)</p>
+<p>Moderated by AP Nicholas Sim (SUSS)</p>
 </td>
 </tr>
 <tr>
