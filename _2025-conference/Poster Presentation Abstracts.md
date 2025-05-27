@@ -4,7 +4,7 @@ permalink: /poster-abstracts/
 variant: tiptap
 description: ""
 ---
-<h2>Poster Presentations</h2>
+<h2>Poster Presentation Abstracts</h2>
 <p>Explore the poster abstracts below, and be sure to visit each display
 to discover more in-depth insights!</p>
 <p>Poster 1:</p>
