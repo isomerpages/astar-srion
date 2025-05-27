@@ -4,7 +4,7 @@ permalink: /oral-abstracts/
 variant: tiptap
 description: ""
 ---
-<h2>Presentation Abstracts</h2>
+<h2>Oral Presentation Abstracts</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
