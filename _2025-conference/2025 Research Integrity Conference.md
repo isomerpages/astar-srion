@@ -23,7 +23,6 @@ will be available for walk-in participants.</p>
 <p>Speakers' biographies available <a href="/speakers/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <h3>Poster Presentation</h3>
-<p>Poster Abstract Submissions have now closed, and final round of judging
-will occur during the Poster Sessions on the Conference Day.</p>
+<p>Please find the Poster Presentation Abstracts here.</p>
 <p>&nbsp;</p>
 <p></p>
