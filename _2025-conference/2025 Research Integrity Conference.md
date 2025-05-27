@@ -23,6 +23,6 @@ will be available for walk-in participants.</p>
 <p>Speakers' biographies available <a href="/speakers/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <h3>Poster Presentation</h3>
-<p>Please find the Poster Presentation Abstracts <a href="/poster-presentation/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Please find the Poster Presentation Abstracts <a href="/poster-abstracts/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p></p>
