@@ -242,9 +242,7 @@ positioning ethical design practices at the forefront of creative inquiry.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Session 3: Navigating the Ethics of AI</strong>
+<p><strong>&nbsp;Session 3: Navigating the Ethics of AI</strong>
 </p>
 <p>Moderated by AP U-Xuan Tan</p>
 </td>
