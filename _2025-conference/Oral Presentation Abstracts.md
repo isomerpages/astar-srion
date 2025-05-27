@@ -148,8 +148,27 @@ perspectives in fostering a culture of research integrity.</p>
 <p><strong>Fostering Responsible Conduct of Research through Data Management and Open Science</strong>
 </p>
 <p>by Prof Mai Har Sham</p>
-<p><em>Pending</em>
-</p>
+<p>There has been significant investment in research and innovation in the
+Asia Pacific region in the recent years, generating a significant share
+of the world’s annual research output. The increasing population of trained
+researchers are working in diverse cross-disciplinary research areas, with
+expanded applications of technologies and artificial intelligence in various
+fields. Our research work has become even more interdisciplinary, many
+of these involve collaborations across institutions in different regions
+and countries. However, institutional assessment of research impact, incentives
+for researchers and reward mechanisms may not be well aligned with the
+principles for collaborations. Furthermore, we have experienced geopolitical
+developments in different parts of the world, including increased concern
+of research security. Amidst economic down-turn and severe competition
+for reduced research funding, we are also facing the possibility of a retrospective
+trend of de-globalization. Universities, research institutions, grant agencies
+and researchers need to address new challenges in maintaining a responsible
+research culture, while continue to thrive for research excellence. In
+my presentation I will share our experience in implementation strategies
+that foster responsible conduct of research through good practices in research
+data management. Our goal is to educate and support researchers to maintain
+the balance between open science, research security, and international
+collaboration.</p>
 </td>
 </tr>
 <tr>
