@@ -4,7 +4,7 @@ permalink: /program/
 variant: tiptap
 description: ""
 ---
-<h2>Conference Program</h2>
+<h2>Program Overview</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
