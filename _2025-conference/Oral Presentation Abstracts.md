@@ -323,14 +323,10 @@ evolve as technology develops.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<td rowspan="1" colspan="2">
+<p><strong>&nbsp;Session 4: Can AI revolutionise academic publications?</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Session 4: Can AI revolutionise academic publications?</strong>
-</p>
-<p>Moderated by Prof Nicholas Sim</p>
+<p>Moderated by AP Nicholas Sim</p>
 </td>
 </tr>
 <tr>
