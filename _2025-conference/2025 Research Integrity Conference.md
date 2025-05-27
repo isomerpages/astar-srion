@@ -20,10 +20,11 @@ will be available for walk-in participants.</p>
 <p>Available <a href="/program/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <h3>Speakers</h3>
-<p>Speakers' biographies available <a href="/speakers/" rel="noopener nofollow" target="_blank">here</a>
+<p>Speaker biographies available <a href="/speakers/" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p>Oral presentation abstracts available <a href="/oral-abstracts/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <h3>Poster Presentation</h3>
-<p>Poster Abstract Submissions have now closed, and final round of judging
-will occur during the Poster Sessions on the Conference Day.</p>
+<p>Please find the Poster Presentation Abstracts <a href="/poster-abstracts/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p></p>

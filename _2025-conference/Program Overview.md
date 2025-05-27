@@ -1,10 +1,10 @@
 ---
-title: Program
+title: Program Overview
 permalink: /program/
 variant: tiptap
 description: ""
 ---
-<h2>Conference Program</h2>
+<h2>Program Overview</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -21,7 +21,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.30am – 9.00am</p>
+<p><strong>8.30am – 9.00am</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration</p>
@@ -29,7 +30,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.00am – 9.05am</p>
+<p><strong>9.00am – 9.05am</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Welcome by Conference Chair</u>
@@ -41,7 +43,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.05am – 9.25am</p>
+<p><strong>9.05am – 9.25am</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Guest of Honour Addresses</u>
@@ -70,7 +73,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.25am – 10.15am</p>
+<p><strong>9.25am – 10.15am</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Prof David Vaux</strong>
@@ -82,7 +86,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.15am - 10.45am</p>
+<p><strong>10.15am - 10.45am</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Morning tea</p>
@@ -90,7 +95,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.45am – 11.20am</p>
+<p><strong>10.45am – 11.20am</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Prof Abhi Veerakumarasivam</strong>
@@ -102,7 +108,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.20am – 11.55am</p>
+<p><strong>11.20am – 11.55am</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Prof Mai Har Sham</strong>
@@ -122,7 +129,8 @@ of Hong Kong</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.55am – 12.30pm</p>
+<p><strong>11.55am – 12.30pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Dr Voo Teck Chuan</strong>
@@ -134,7 +142,8 @@ of Hong Kong</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.30pm – 1.05pm</p>
+<p><strong>12.30pm – 1.05pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Asst Prof Lisa Winstanley</strong>
@@ -146,7 +155,8 @@ of Hong Kong</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.05pm – 2.15pm</p>
+<p><strong>1.05pm – 2.15pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lunch</p>
@@ -161,7 +171,8 @@ of Hong Kong</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.15pm – 2.50pm</p>
+<p><strong>2.15pm – 2.50pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Prof Simon Chesterman</strong>
@@ -174,7 +185,8 @@ Innovation), NUS</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.50pm – 3.25pm</p>
+<p><strong>2.50pm – 3.25pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Assoc Prof Jeannie Lee</strong>
@@ -186,7 +198,8 @@ Innovation), NUS</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.25pm – 3.55pm</p>
+<p><strong>3.25pm – 3.55pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Afternoon tea</p>
@@ -201,7 +214,8 @@ Innovation), NUS</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.55pm - 4.45pm</p>
+<p><strong>3.55pm - 4.45pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Dr Magdalena Skipper</strong>
@@ -213,7 +227,8 @@ Innovation), NUS</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.45pm – 5.20pm</p>
+<p><strong>4.45pm – 5.20pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Prof Chien Chou</strong>
@@ -226,7 +241,8 @@ Tung University</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.20pm – 5.30pm</p>
+<p><strong>5.20pm – 5.30pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Poster Awards</p>
@@ -234,7 +250,8 @@ Tung University</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.30pm – 5.40pm</p>
+<p><strong>5.30pm – 5.40pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Closing speech by SIRION Chair</p>
