@@ -535,7 +535,8 @@ strong ethics governance and proactive support for the research community.</p>
 Janakiraman Prashanth, Zheng Tan Kye, Jiang Ridong and Quek Ming Kai Elton</p>
 <p><strong>Abstract</strong>
 </p>
-<p>The challenges and our approach</p>
+<p><u>The challenges and our approach</u>
+</p>
 <p>To effectively build awareness on ethics &amp; compliance in IRB/HBR regulated
 research, we look at the challenges faced by our researchers on getting
 timely, relevant and useful snippets of information on related processes,
@@ -545,9 +546,10 @@ certain policies.</p>
 <p>We provide time-saving and easily accessible information for researchers
 anytime anywhere, via a chatbot. We have deployed the chatbot in May 2024,
 for access by all I²R staff.</p>
-<p><em>Method</em>
+<p><strong><em><u>Method</u></em></strong>
 </p>
-<p>How does the chatbot work?</p>
+<p><u>How does the chatbot work?</u>
+</p>
 <p>IRB/HBR knowledge base consists of question-answer pairs. It consists
 of deconstructed versions of the guides and policies, repackaged into bite-sized
 pieces, to deliver the right amount of information to address the queries.
@@ -564,11 +566,11 @@ via online feedback to improve the NLP engine.</p>
 base (e.g. analysis of response relevance and accuracy, analysis of nil
 responses provided by the chatbot, that guide us to design more targeted
 and comprehensive question-answer pairs).</p>
-<p><em>Results</em>
+<p><strong><em><u>Results</u></em></strong>
 </p>
 <p>Easier &amp; faster way to get information on IRB/HBR-related information.</p>
 <p>Reduce admin overheads for I²R HBRO on answering simple queries.</p>
-<p><em>Acknowledgement</em>
+<p><strong><em><u>Acknowledgement</u></em></strong>
 </p>
 <p>The chatbot is developed by I²R’s Integrated Digital Product Centre and
 Aural &amp; Language Intelligence teams.</p>
