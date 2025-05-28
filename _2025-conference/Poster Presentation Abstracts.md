@@ -9,44 +9,31 @@ description: ""
 to discover more in-depth insights!</p>
 <p>Poster 1:</p>
 <blockquote>
-<p><strong>A degrading academic teaching and research culture: failures, struggles and reflections from an auto-ethnography study</strong>
+<p><strong>Development of Application-Specific Large Language Models to Facilitate Research Ethics Review</strong>
 </p>
 </blockquote>
-<p>Sohail Sanghab &amp; Arlindo Silva</p>
+<p>Sebastian Porsdam Mann, Joel Jiehao Seah, Stephen R. Latham, Julian Savulescu,
+Mateo Aboy and Brian D. Earp</p>
 <p><strong>Abstract</strong>
 </p>
-<p>Doctoral education in engineering is suffering from a spiraling feedback
-loop of publishing pressures, low-quality research, and lack of teaching
-rewards. First, faculty prioritizing research over undergraduate education
-has weakened the foundational skills of future graduate students and researchers.
-Second, this skill gap, combined with publication pressures, then pushes
-academics to use doctoral students as glorified technicians. Finally, the
-continued decline in literature quality (following from the previous two)
-results in an incomplete conceptual picture for doctoral students, increasing
-the risk of research ideas disconnected from societal value, ethics, and
-safety. Yet, graduation requirements force doctoral students to publish
-(eventually) mediocre results, thus perpetuating the cycle of declining
-literature quality.</p>
-<p>A few global surveys, interviews, and reflective accounts corroborate
-aspects of this narrative. However, a thorough investigation of this situation
-requires deep ethnographic studies of the engineering research culture,
-with eventual consequences for the authors.</p>
-<p>Lacking such data, we present an inward-looking autoethnographic and systems
-thinking perspective to situate ourselves within the academic complexity
-as beneficiaries, victims, perpetuators, and opposers. We inquire about
-our histories of successful and failed projects hoping to untangle our
-relation with impactful engineering work from struggles with the perceptions
-of academic success. Despite repeated failed attempts at materializing
-change within our systems, we question our motivations to continue being
-academics and recognize our acts of resistance against widespread neglectful
-teaching, degrading research methods, and sub-standard outputs that feed
-meaningless success metrics and fuel unrewarding career progress.</p>
-<p>Here, we want to build a reflective space for individuals affected by
-neoliberal academic practices (that over-emphasize entrepreneurship and
-fast-paced publication/citation) to consider our collective role in perpetuating
-these norms. Our goal is to start a dialogue on altering our relationship
-with research, teaching, and the literature we produce, thus reshaping
-the conditions of our work.</p>
+<p>Institutional review boards (IRBs) play a crucial role in ensuring the
+ethical conduct of human subjects research, but face challenges including
+inconsistency, delays, and inefficiencies. We propose the development and
+implementation of application-specific large language models (LLMs) to
+facilitate IRB review processes. These IRB-specific LLMs would be fine-tuned
+on IRB-specific literature and institutional datasets, and equipped with
+retrieval capabilities to access up-to-date, context-relevant information.
+We outline potential applications, including pre-review screening, preliminary
+analysis, consistency checking, and decision support. While addressing
+concerns about accuracy, context sensitivity, and human oversight, we acknowledge
+remaining challenges such as over-reliance on AI and the need for transparency.
+By enhancing the efficiency and quality of ethical review while maintaining
+human judgment in critical decisions, IRB-specific LLMs offer a promising
+tool to improve research oversight. We call for pilot studies to evaluate
+the feasibility and impact of this approach.</p>
+<blockquote>
+<p></p>
+</blockquote>
 <hr>
 <p>Poster 2:</p>
 <blockquote>
@@ -214,28 +201,44 @@ in relation to their job tasks in the long term.</p>
 <hr>
 <p>Poster 6:</p>
 <blockquote>
-<p><strong>Development of Application-Specific Large Language Models to Facilitate Research Ethics Review</strong>
+<p><strong>A degrading academic teaching and research culture: failures, struggles and reflections from an auto-ethnography study</strong>
 </p>
 </blockquote>
-<p>Sebastian Porsdam Mann, Joel Jiehao Seah, Stephen R. Latham, Julian Savulescu,
-Mateo Aboy and Brian D. Earp</p>
+<p>Sohail Sanghab &amp; Arlindo Silva</p>
 <p><strong>Abstract</strong>
 </p>
-<p>Institutional review boards (IRBs) play a crucial role in ensuring the
-ethical conduct of human subjects research, but face challenges including
-inconsistency, delays, and inefficiencies. We propose the development and
-implementation of application-specific large language models (LLMs) to
-facilitate IRB review processes. These IRB-specific LLMs would be fine-tuned
-on IRB-specific literature and institutional datasets, and equipped with
-retrieval capabilities to access up-to-date, context-relevant information.
-We outline potential applications, including pre-review screening, preliminary
-analysis, consistency checking, and decision support. While addressing
-concerns about accuracy, context sensitivity, and human oversight, we acknowledge
-remaining challenges such as over-reliance on AI and the need for transparency.
-By enhancing the efficiency and quality of ethical review while maintaining
-human judgment in critical decisions, IRB-specific LLMs offer a promising
-tool to improve research oversight. We call for pilot studies to evaluate
-the feasibility and impact of this approach.</p>
+<p>Doctoral education in engineering is suffering from a spiraling feedback
+loop of publishing pressures, low-quality research, and lack of teaching
+rewards. First, faculty prioritizing research over undergraduate education
+has weakened the foundational skills of future graduate students and researchers.
+Second, this skill gap, combined with publication pressures, then pushes
+academics to use doctoral students as glorified technicians. Finally, the
+continued decline in literature quality (following from the previous two)
+results in an incomplete conceptual picture for doctoral students, increasing
+the risk of research ideas disconnected from societal value, ethics, and
+safety. Yet, graduation requirements force doctoral students to publish
+(eventually) mediocre results, thus perpetuating the cycle of declining
+literature quality.</p>
+<p>A few global surveys, interviews, and reflective accounts corroborate
+aspects of this narrative. However, a thorough investigation of this situation
+requires deep ethnographic studies of the engineering research culture,
+with eventual consequences for the authors.</p>
+<p>Lacking such data, we present an inward-looking autoethnographic and systems
+thinking perspective to situate ourselves within the academic complexity
+as beneficiaries, victims, perpetuators, and opposers. We inquire about
+our histories of successful and failed projects hoping to untangle our
+relation with impactful engineering work from struggles with the perceptions
+of academic success. Despite repeated failed attempts at materializing
+change within our systems, we question our motivations to continue being
+academics and recognize our acts of resistance against widespread neglectful
+teaching, degrading research methods, and sub-standard outputs that feed
+meaningless success metrics and fuel unrewarding career progress.</p>
+<p>Here, we want to build a reflective space for individuals affected by
+neoliberal academic practices (that over-emphasize entrepreneurship and
+fast-paced publication/citation) to consider our collective role in perpetuating
+these norms. Our goal is to start a dialogue on altering our relationship
+with research, teaching, and the literature we produce, thus reshaping
+the conditions of our work.</p>
 <hr>
 <p>Poster 7:</p>
 <blockquote>
