@@ -5,8 +5,62 @@ variant: tiptap
 description: ""
 ---
 <h2>Poster Presentation Abstracts</h2>
-<p>Explore the poster abstracts below, and be sure to visit each display
-to discover more in-depth insights!</p>
+<p>Congratulations to our Poster Winners!</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>First Prize</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Poster 9</p>
+<p>Using Risk Assessments to evaluate (or is it identify) potential risks
+in Investigator Initiated Clinical Trials (IICTs) – the NUHS approach.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anushia Panchalingham, Jessamine Goh, Goh Lihui, Valerie Foo, Adrian Thian,
+Daryl Tay, Yasotha Narendran, Tan Ke Wei, Jeannie Lin, Stephanie Ruth Teo,
+Sankari Ramanathan and Elizabeth Tham</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Second Prize</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Poster 7</p>
+<p>Implementation of a “Fast Lane” Approach for Data Transfer at NUHS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daryl Tay, Stephanie Ruth Teo, Joshua Chan, Adrian Thian, Ke Wei Tan,
+Jiun-Yih Lin, Anushia Panchalingham, Valerie Foo, Jessamine Geraldine Goh,
+Yasotha Narendran, Bernard Nguang, Li Hui Goh, Sankari Ramanathan and Elizabeth
+Huiwen Tham</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Third Prize</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Poster 3</p>
+<p>Understanding AI Acceptance Anxiety: A Study of Psychological Effects
+of GenAI tool Usage Among NTU Undergraduate Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Qu Yao &amp; Loo Hui En</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <p>Poster 1:</p>
 <blockquote>
 <p><strong>Development of Application-Specific Large Language Models to Facilitate Research Ethics Review</strong>
