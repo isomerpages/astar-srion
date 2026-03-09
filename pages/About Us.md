@@ -46,10 +46,21 @@ global standards, practices and initiatives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SMU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Tang Hang Wu (SIRION Chair)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Provost (Research Governance)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>A*STAR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prof Andy Hor (SIRION Chair)</p>
+<p>Prof Andy Hor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deputy Chief Executive (Research)</p>
@@ -84,7 +95,7 @@ of the Provost NUS;</p>
 <p>NTU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assoc Prof Roderick Bates</p>
+<p>Assoc Prof Navin Kumar Verma</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Integrity Officer</p>
@@ -95,10 +106,10 @@ of the Provost NUS;</p>
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assoc Prof Low Chian Ming</p>
+<p>Prof Chng Wee Joo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Academic and Research Compliance and Integrity Officer</p>
+<p>Chief Academic and Research Compliance and Integrity Officer (interim)</p>
 </td>
 </tr>
 <tr>
@@ -136,24 +147,13 @@ of the Provost NUS;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SMU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prof Tang Hang Wu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Associate Provost (Research Governance)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assoc Prof Randolph Tan</p>
+<p>Assoc Prof Nicholas Sim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director of Research</p>
+<p>Director of Centre for Applied Research</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +197,7 @@ of the Provost NUS;</p>
 <p>Dr Sankari Ramanathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director, Research Office</p>
+<p>Director, NUHS Research Office</p>
 </td>
 </tr>
 </tbody>
